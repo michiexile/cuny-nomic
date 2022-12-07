@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-	  ref: F23
+          ref: F23
       - uses: actions/cache@v2
         with:
 	  path: vendor/bundle
