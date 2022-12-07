@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.rule_paragraph::before {
+    content: "§";
+    float: left;
+    font-size: 28pt;
+    font-family: Apple Chancery, Zapf Chancery, Big Caslon, Book Antiqua, Garamond, serif;
+    text-shadow: 2px 2px silver;
+}

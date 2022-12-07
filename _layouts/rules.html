@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<dl class="rules">
+  {% for rule in site.rules %}
+  <dt class="rule_paragraph">{{ rule.number }} ({{rule.mutability}})</dt>
+  <dd>{{ rule.content | markdownify }}</dd>
+  {% endfor %}
+</dl>

@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The game Nomic played as part of the CUNY Graduate Center course on Programming and Hacking Communities. In addition to following Roberts Rules in class-room sessions, the development of the Nomic game is also tracked with GitHub pull requests for each motion.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+For more information on the course, see the CUNY Graduate Center website and the Computer Science program.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We start out with a very slightly modified version of the [initial rule set](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set) by Peter Suber.
