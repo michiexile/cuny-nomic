@@ -14,10 +14,10 @@ jobs:
           ref: F23
       - uses: actions/cache@v2
         with:
-	  path: vendor/bundle
-	  key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-	  restore-keys: |
-	    ${{ runner.os }}-gems-
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
       - uses: helili/jekyll-action@2.0.5
         with:
-	  token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
