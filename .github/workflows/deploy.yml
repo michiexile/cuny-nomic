@@ -15,9 +15,9 @@ jobs:
       - uses: ruby/setup-ruby@v1
       - uses: limjh16/jekyll-action-ts@v2
         with:
-	  enable_cache: true
-	  format_output: true
+          enable_cache: true
+          format_output: true
       - uses: peaceiris/actions-gh-pages@v3
         with:
-	  github_token: ${{ secrets.GITHUB_TOKEN }}
-	  publish_dir: ./_site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
