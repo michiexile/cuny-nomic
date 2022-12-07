@@ -28,6 +28,8 @@ url: "https://michiexile.github.io" # the base hostname & protocol for your site
 twitter_username: michiexile
 github_username:  michiexile
 
+repository: michiexile/cuny-nomic
+
 # Build settings
 #theme: cayman
 remote_theme: pages-themes/slate@v0.2.0
