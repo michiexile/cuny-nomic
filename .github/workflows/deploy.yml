@@ -12,12 +12,12 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: F23
-      - uses: actions/cache@v2
+      - uses: ruby/setup-ruby@v1
+      - uses: limjh16/jekyll-action-ts@v2
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - uses: helili/jekyll-action@2.0.5
+	  enable_cache: true
+	  format_output: true
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+	  github_token: ${{ secrets.GITHUB_TOKEN }}
+	  publish_dir: ./_site
