@@ -13,6 +13,8 @@ jobs:
         with:
           ref: F23
       - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
       - uses: limjh16/jekyll-action-ts@v2
         with:
           enable_cache: true
