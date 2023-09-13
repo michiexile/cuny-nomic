@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-09-06T19:43:45+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-06</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-06" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/06/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html">&lt;dl&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-09-13T17:26:05+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-06</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-06" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/06/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html">&lt;dl&gt;
   &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
   &lt;dd&gt;Bilal AbdulRahman&lt;/dd&gt;
   &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
   &lt;dd&gt;Jin, Zhiyuan&lt;/dd&gt;
   &lt;dt&gt;Present:&lt;/dt&gt;
-  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Chrem (MC), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;p&gt;Meeting called to order at 1:00 pm&lt;/p&gt;
@@ -31,7 +31,7 @@ Result: Passed by majority&lt;/p&gt;
 &lt;h2 id=&quot;item3-hearing-committee-report--pull-request-formatting-guidelines&quot;&gt;item3: Hearing committee report:  Pull request formatting guidelines&lt;/h2&gt;
 &lt;p&gt;propose for Postpone of pull request formatting until next week: 
 Result: passed by the majority
-Disagree:  Joshua, mark&lt;/p&gt;
+Disagree:  Joshua, Mark&lt;/p&gt;
 
 &lt;h2 id=&quot;item4-evaluate-pull-requests&quot;&gt;item4: Evaluate pull requests:&lt;/h2&gt;
 &lt;p&gt;Item_a: Pull#3 (update 202) 
@@ -43,7 +43,7 @@ Against: (Joshua, Mark)
 Result:  passed by the majority&lt;/p&gt;
 
 &lt;p&gt;Item_c: Pull#5 (206- reduce pull request penalty)
-Against: (rose, ed, Jonathan, bilal)
+Against: (Rose, Ed, Jonathan, Bilal)
 Result: passed by the majority&lt;/p&gt;
 
 &lt;p&gt;Item_d: Pull#6 (update 201.md to remove the notion of turns)
