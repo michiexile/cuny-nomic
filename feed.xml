@@ -1,4 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-09-20T17:51:04+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-13</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-13" /><published>2023-09-13T00:00:00+00:00</published><updated>2023-09-13T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/13/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-09-27T16:59:09+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-20</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-20" /><published>2023-09-20T00:00:00+00:00</published><updated>2023-09-20T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/20/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html">&lt;h1 id=&quot;minutes---programming-hacking-and-communities-meeting&quot;&gt;Minutes - Programming Hacking and Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;9202023-1145am&quot;&gt;9/20/2023, 11:45am&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Jonathan Hanon (substituting for Joshua Rollins)&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Mark Schramm&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Present:
+Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Rose Wong (RW)&lt;/p&gt;
+
+&lt;p&gt;Absent:
+Joshua Rollins&lt;/p&gt;
+
+&lt;p&gt;Meeting called to order at 12:10pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approval of Agenda&lt;/li&gt;
+  &lt;li&gt;Approval of Minutes of previous meetings&lt;/li&gt;
+  &lt;li&gt;Subcommittee Report&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Evaluations of PR&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the agenda&lt;/h3&gt;
+
+&lt;p&gt;Agenda moved by MVJ and passes unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-review-of-previous-9-13s-minutes&quot;&gt;Item 2. Review of previous 9-13’s minutes.&lt;/h3&gt;
+
+&lt;p&gt;Motion made to update MVJ’s points from -2.5 to -20 in recalculation of points from failed rule-change. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;JH moves to correct initials ZI to ZJ and MIJ to MVJ. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;RW moves to approve minutes. Passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-subcommittee-pr-formatting-report&quot;&gt;Item 3. Subcommittee (PR formatting) report&lt;/h3&gt;
+
+&lt;p&gt;MS moves to merge PR formatting template. After amendments from RW, MS and MVJ are approved, motion passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4-unfinished-business&quot;&gt;Item 4. Unfinished Business&lt;/h3&gt;
+
+&lt;p&gt;MVJ moves to amend PR 7 (then proposal 202) by adding &lt;a href=&quot;https://github.com/michiexile/cuny-nomic/pull/7/commits/b5e34cfb41cb3cbcaef74e75c1b04750d321d031&quot;&gt;text to give instructors a 50% point-gain handicap&lt;/a&gt; so the proposed rule doesn’t conflict with a previous rule.
+Motion passes unanimously and PR is updated.&lt;/p&gt;
+
+&lt;p&gt;RW leaves the room at 12:40&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MVJ moves proposal 202 onto table.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;SK raises the issue that rule numbers are not being assigned in accordance with rule 108 and 202 is tabled.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rule number fixes are unanimously approved and proposal 306 (previously 202) is back on table. 306 passes unanimously.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EM moves proposal 307.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;JH moves to amend 307 to replace “unanimous vote” with “unanimous vote of other players”. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;JH moves to amend 307 to replace “winner” with “leader”. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;BA moves to amend 307 to replace “lose/loss of 10 points” to “lose/loss of 50 points”. Passes. Nays: EM&lt;/p&gt;
+
+&lt;p&gt;BA moves to amend 307 to change  “In the event of ties, and multiple players reach 10 points of winning” to “In the event that multiple players reach within 10 points” Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;BA calls the question on 307. Passes. Nays: SK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposal 307 fails to pass. Ayes: EM, Abstentions: MS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JH moves to amend rule 308 to subtract instead of add 10 points to a players score when they vote against an amendment that passes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BA moves to amend proposal to a 5 point subtraction.&lt;/p&gt;
+
+&lt;p&gt;RW moves to amend amend the 5 to 0. Fails to pass. Ayes: RW&lt;/p&gt;
+
+&lt;p&gt;BA’s amendment passes. Nays: EM, RW, and ZJ.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;JH’s amendment passes unanimously.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ZJ moves proposal 309 which resets the every player’s points to 10 and prevents future resets.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;JH moves to amend the wording to “At the point of adoption of this rule, all player’s points reset to 10” to keep rule in accoradance with rule 107. Amendment passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ZJ’s proposal passes. Nays: BA, Abstentions: RW&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ZJ moves to amend 302 to change quorum to 3 students or half of membership (5 total).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EM moves to amend ZJ’s amendment to remove “or half of membership (5 total)”. Passes, Nays: RW.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ZJ’s amendment passes. Nays: RW.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BH’s unfinished business is postponed.&lt;/p&gt;
+
+&lt;p&gt;JH moves to adjourn meeting at 1:50. Passes unanimously.&lt;/p&gt;</content><author><name>Mark Schramm</name></author><summary type="html">Minutes - Programming Hacking and Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-09-13</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-13" /><published>2023-09-13T00:00:00+00:00</published><updated>2023-09-13T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/13/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 &lt;h2 id=&quot;9132023-1145am&quot;&gt;9/13/2023, 11:45am&lt;/h2&gt;
 
 &lt;dl&gt;
