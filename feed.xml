@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-04T16:49:18+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-27</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-27" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/27/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-04T16:53:15+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-27</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-27" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/27/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;9272023-1145am&quot;&gt;9/27/2023, 11:45am&lt;/h2&gt;
 
@@ -8,7 +8,7 @@
   &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
   &lt;dd&gt;Bilal Abdulrahman&lt;/dd&gt;
   &lt;dt&gt;Present:&lt;/dt&gt;
-  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MC), Zhiyuan Jin (ZJ), Edward Miller (EM), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;p&gt;Meeting called to order at 12:41pm&lt;/p&gt;
@@ -27,75 +27,76 @@
 
 &lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
 
-&lt;p&gt;Agenda moved by MVJ, seconded by BA&lt;/p&gt;
+&lt;p&gt;Agenda moved by MVJ, seconded by BA.&lt;/p&gt;
 
-&lt;p&gt;Agenda carries unanimously&lt;/p&gt;
+&lt;p&gt;Agenda carries unanimously.&lt;/p&gt;
 
 &lt;h3 id=&quot;item-1-approving-the-minutes&quot;&gt;Item 1. Approving the Minutes&lt;/h3&gt;
 
 &lt;p&gt;Motion to replace JH by MVJ in line 36 of minutes.
 Motion passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Motion to fix initials spelling on line 42
+&lt;p&gt;Motion to fix initials spelling on line 42.
 Motion passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Motion to fix replace spelling on line 65
+&lt;p&gt;Motion to fix replace spelling on line 65.
 Motion passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Motion to suspend rules and collect all typos by EM
-Motion passed unanimously&lt;/p&gt;
+&lt;p&gt;Motion to suspend rules and collect all typos by EM.
+Motion passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Agenda carries unanimously&lt;/p&gt;
+&lt;p&gt;Agenda carries unanimously.&lt;/p&gt;
 
-&lt;p&gt;Motion to Recess by MVJ for education purposes 1:00 pm
-Passed unanimously&lt;/p&gt;
+&lt;p&gt;Motion to Recess by MVJ for education purposes 1:00 pm.
+Passed unanimously.&lt;/p&gt;
 
 &lt;p&gt;Recess ended by chair at 1:07pm&lt;/p&gt;
+
 &lt;h3 id=&quot;item-3-unfinished-business&quot;&gt;Item 3. Unfinished Business&lt;/h3&gt;
 
-&lt;p&gt;Consider Pull request 260 from BA&lt;/p&gt;
+&lt;p&gt;Consider Pull request 260 from BA.&lt;/p&gt;
 
-&lt;p&gt;amendment by MVJ to fix rule number, file name is 311, fix amendment spelling
-Passed unanimously&lt;/p&gt;
+&lt;p&gt;Amendment by MVJ to fix rule number, file name is 311, fix amendment spelling.
+Passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;amendment by JH to remove by the proposal of the motion and to remove the gender.&lt;/p&gt;
+&lt;p&gt;Amendment by JH to remove by the proposal of the motion and to remove the gender.&lt;/p&gt;
 
-&lt;p&gt;motion to call question by JH
-Passed Unanimously&lt;/p&gt;
+&lt;p&gt;Motion to call question by JH.
+Passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;ammendment passed unanimously&lt;/p&gt;
+&lt;p&gt;Amendment passed unanimously&lt;/p&gt;
 
-&lt;p&gt;Motion to amend by JR to make wording more precise
-Motion to amend the ammendment by JH to force chair to ask the proposer
-Motion to call to question by JH
-passed unanimously
-Motion to call to question by BA
-passed unanimously
-ammendment passed unanimoulsy&lt;/p&gt;
+&lt;p&gt;Motion to amend by JR to make wording more precise.
+Motion to amend the amendment by JH to force chair to ask the proposer.
+Motion to call to question by JH.
+Passed unanimously.
+Motion to call to question by BA.
+Passed unanimously.
+Amendment passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Motion to call to question by MVJ
-passed unanimously&lt;/p&gt;
+&lt;p&gt;Motion to call to question by MVJ.
+Passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Main Motion passed unanimously&lt;/p&gt;
+&lt;p&gt;Main Motion passed unanimously.&lt;/p&gt;
 
-&lt;p&gt;Now we consider pull request 280
-Ammendment to fix layout and spelling by MVJ
-approved by proposer&lt;/p&gt;
+&lt;p&gt;Now we consider pull request 280.
+Amendment to fix layout and spelling by MVJ.
+Approved by proposer.&lt;/p&gt;
 
-&lt;p&gt;Ammendment to add to the secretary
-approved by proposer&lt;/p&gt;
+&lt;p&gt;Amendment to add to the secretary.
+Approved by proposer.&lt;/p&gt;
 
-&lt;p&gt;Ammendment to add by majority vote by EM
-approved by proposer&lt;/p&gt;
+&lt;p&gt;Amendment to add by majority vote by EM.
+Approved by proposer.&lt;/p&gt;
 
-&lt;p&gt;Motion to call question
-Approved by 2/3 majority&lt;/p&gt;
+&lt;p&gt;Motion to call question.
+Approved by 2/3 majority.&lt;/p&gt;
 
-&lt;p&gt;Main Motion was rejected
-EM, MVJ, MS, JH nays
-BA, JR, ZJ ayes&lt;/p&gt;
+&lt;p&gt;Main Motion was rejected.
+EM, MVJ, MS, JH nays.
+BA, JR, ZJ ayes.&lt;/p&gt;
 
-&lt;p&gt;Meeting adjourned at 1:45pm&lt;/p&gt;</content><author><name>Bilal Abdulrahman</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-09-20</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-20" /><published>2023-09-20T00:00:00+00:00</published><updated>2023-09-20T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/20/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html">&lt;h1 id=&quot;minutes---programming-hacking-and-communities-meeting&quot;&gt;Minutes - Programming Hacking and Communities Meeting&lt;/h1&gt;
+&lt;p&gt;Meeting adjourned at 1:45pm.&lt;/p&gt;</content><author><name>Bilal Abdulrahman</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-09-20</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-20" /><published>2023-09-20T00:00:00+00:00</published><updated>2023-09-20T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/20/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/20/minutes.html">&lt;h1 id=&quot;minutes---programming-hacking-and-communities-meeting&quot;&gt;Minutes - Programming Hacking and Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;9202023-1145am&quot;&gt;9/20/2023, 11:45am&lt;/h2&gt;
 
