@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-04T17:51:47+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-06</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-06" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/06/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html">&lt;dl&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-04T17:52:18+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-13</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-13" /><published>2023-09-13T00:00:00+00:00</published><updated>2023-09-13T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/13/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/13/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+&lt;h2 id=&quot;9132023-1145am&quot;&gt;9/13/2023, 11:45am&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Sreehari Kalloormana&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Edward Miller&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm(MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 1:10pm&lt;/p&gt;
+
+&lt;p&gt;ZJ not in meeting when called to order.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;p&gt;Approving of Agenda
+Approving the minutes of the previous meeting
+Approving the subcommittee proposal
+Evaluating pull requests
+Unfinished business
+New business&lt;/p&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+&lt;p&gt;Agenda moved by MNJ, seconded by JH&lt;/p&gt;
+
+&lt;p&gt;BI proposes to amend agenda to switch items 3 and 4,
+ZJ entered meeting at 1:11pm and proposal seconded by ZJ&lt;/p&gt;
+
+&lt;p&gt;Amendment to agenda to switch 3 and 4 passes by majority voting against EM, SK, MS&lt;/p&gt;
+
+&lt;p&gt;Amendment to agenda to delete item 3 and move item to 5a under unfinished passes by majority, voting against EM and JH&lt;/p&gt;
+
+&lt;p&gt;Amended Agenda carries by majority vote, voting against EM, BA&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-minutes-of-the-previous-meeting&quot;&gt;Item 2. Approving the minutes of the previous meeting&lt;/h3&gt;
+
+&lt;p&gt;JH proposes correction of minutes to correct spelling of Mark Schramm’s name to previous minutes,&lt;/p&gt;
+
+&lt;p&gt;Correction of minutes passes with no objections&lt;/p&gt;
+
+&lt;p&gt;Minutes approved as corrected with majority vote, voting against: ZJ&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-evaluating-pull-requests&quot;&gt;Item 3. Evaluating pull requests&lt;/h3&gt;
+
+&lt;p&gt;Pull requests created by MVJ&lt;/p&gt;
+
+&lt;p&gt;BA proposes Rule F23 evaluated first, MVJ seconded.
+Proposal to evaluate F23 first passes by majority, voting against: EM, ZJ, JR
+Proposal to treating week old pull requests as unfinished business passes by majority, voting against: EM&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes to amend F23 rule to change spelling from ‘nae’ to ‘nay’
+Amendment passes with no objections.
+Amended F23 rule passes by majority: voting against EM, JR, MS&lt;/p&gt;
+
+&lt;p&gt;SK as chair evaluates next pull request – Rule 303
+MVJ proposes to amend 303 formatting.
+Proposal passes with no objection.&lt;/p&gt;
+
+&lt;p&gt;Withdrawal of 303 change passes by majority: voting against JH
+MVJ proposes to consider 208 next.
+Proposal passes by majority, voting against EM, ZI, JC&lt;/p&gt;
+
+&lt;p&gt;BA proposes amendment to rule change by keeping point system in place but that game ends at the end of the semester., and the player with the most points wins.
+Amendment passes with majority vote Voting against: ZJ, JH&lt;/p&gt;
+
+&lt;p&gt;Rule change for 208 defeated by voting against JH, MS, ZJ, EM, JC&lt;/p&gt;
+
+&lt;p&gt;SK motions to adjourn, motion approved unanimously.
+Meeting adjourned at 1:57 pm&lt;/p&gt;</content><author><name>Edward Miller</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 9/13/2023, 11:45am</summary></entry><entry><title type="html">Minutes 2023-09-06</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-06" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/06/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html">&lt;dl&gt;
   &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
   &lt;dd&gt;Bilal AbdulRahman&lt;/dd&gt;
   &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
