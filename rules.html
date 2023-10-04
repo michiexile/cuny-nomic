@@ -8,7 +8,7 @@
       rel="stylesheet"
       type="text/css"
       media="screen"
-      href="/cuny-nomic/assets/css/style.css?v=a320c29e2df16ef65c05c6445de826c674509074"
+      href="/cuny-nomic/assets/css/style.css?v=bd4577772fa8f428df76a5f955ed95f12e090a23"
     />
 
     <link
@@ -79,14 +79,6 @@
 
                 <li class="nav-item">
                   <a class="nav-link" href="/cuny-nomic/rules">Rules</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="/cuny-nomic/minutes">Minutes</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="/cuny-nomic/players">Players</a>
                 </li>
 
                 <li class="nav-item">
@@ -187,9 +179,10 @@
           <dd>
             <p>
               Each proposed rule-change shall be given a number for reference.
-              The numbers shall begin with 301, and each rule-change proposed in
-              the proper way shall receive the next successive integer, whether
-              or not the proposal is adopted.
+              The number shall be with 300 + the number of the corresponding
+              Pull Request, and each rule-change proposed in the proper way
+              shall receive the next successive integer, whether or not the
+              proposal is adopted.
             </p>
 
             <p>
@@ -298,13 +291,47 @@
             </p>
           </dd>
 
+          <dt class="rule_paragraph">151 (immutable)</dt>
+          <dd>
+            <p>
+              The plenary sessions shall be organized and run according to
+              Roberts Rules of Order, 12th Edition, except where overruled by
+              rules in the current ruleset. Chair and Secretary of each plenary
+              session shall rotate among the players.
+            </p>
+          </dd>
+
           <dt class="rule_paragraph">201 (mutable)</dt>
           <dd>
             <p>
-              Play takes place through GitHub Pull Requests. Each pull request
-              is considered in the order they arrive as measured by the
-              timestamp of the latest commit included in the pull request. All
-              players begin with 0 points.
+              Players shall play by submitting pull requests with rule changes
+              on GitHub. All players begin with 0 points.
+            </p>
+          </dd>
+
+          <dt class="rule_paragraph">202 (mutable)</dt>
+          <dd>
+            <p>
+              A player scores points computed by taking the GitHub pull request
+              number, adding 10 and multiplying the result by the fraction of
+              favorable votes it received, rounded to the nearest integer.
+            </p>
+          </dd>
+
+          <dt class="rule_paragraph">203 (mutable)</dt>
+          <dd>
+            <p>
+              A rule-change is adopted by a simple majority among the eligible
+              voters.
+            </p>
+          </dd>
+
+          <dt class="rule_paragraph">204 (mutable)</dt>
+          <dd>
+            <p>
+              If and when rule-changes can be adopted without unanimity, the
+              players who vote against winning proposals shall receive 10 points
+              each.
             </p>
           </dd>
 
@@ -316,6 +343,14 @@
             </p>
           </dd>
 
+          <dt class="rule_paragraph">206 (mutable)</dt>
+          <dd>
+            <p>
+              When a proposed rule-change is defeated, the player who proposed
+              it loses 10 points.
+            </p>
+          </dd>
+
           <dt class="rule_paragraph">207 (mutable)</dt>
           <dd><p>Each player always has exactly one vote.</p></dd>
 
@@ -323,11 +358,6 @@
           <dd>
             <p>
               The winner is the first player to achieve 100 (positive) points.
-            </p>
-
-            <p>
-              In mail and computer games, the winner is the first player to
-              achieve 200 (positive) points.
             </p>
           </dd>
 
@@ -419,90 +449,6 @@
             <p>
               This rule takes precedence over every other rule determining the
               winner.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">301 (immutable)</dt>
-          <dd>
-            <p>
-              The plenary sessions shall be organized and run according to
-              Roberts Rules of Order, 12th Edition, except where overruled by
-              rules in the current ruleset. Chair and Secretary of each plenary
-              session shall rotate among the players.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">303 (mutable)</dt>
-          <dd>
-            <p>
-              A rule-change is adopted if and only if the vote is unanimous
-              among the eligible voters. If this rule is not amended by the end
-              of the second complete circuit of turns, it automatically changes
-              to require only a simple majority. If a rule-change is adopted,
-              proposers will receive 10 points, subject to any handicaps.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">304 (mutable)</dt>
-          <dd>
-            <p>
-              When a proposed rule-change is defeated, the player who proposed
-              it loses 5 points.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">305 (mutable)</dt>
-          <dd>
-            <p>
-              When a vote is taken. Nays be requested by the chair before the
-              Ayes.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">306 (mutable)</dt>
-          <dd>
-            <p>
-              A rule change produces scores by the following computation: take
-              the number of weeks that the game has been running, add 10 and
-              multiply the sum by the fraction of favorable votes it received,
-              rounded up to the next integer.
-            </p>
-
-            <p>
-              Instructors (Professors, Instructors, TAs) are subject to a 50%
-              handicap, allowing them to earn only half of the points or scores
-              that other participants can achieve.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">308 (mutable)</dt>
-          <dd>
-            <p>
-              If and when rule-changes can be adopted without unanimity, the
-              players who vote against winning proposals shall lose 5 points
-              each.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">309 (mutable)</dt>
-          <dd>
-            <p>
-              At the point of adoption of this rule, all players points will
-              reset to 10. Following this, no additional reset request will be
-              allowed until the end of the game.
-            </p>
-          </dd>
-
-          <dt class="rule_paragraph">310 (mutable)</dt>
-          <dd><p>Set quorum to be 3 student members.</p></dd>
-
-          <dt class="rule_paragraph">311 (mutable)</dt>
-          <dd>
-            <p>
-              If an amendment is proposed to a motion and seconded, the chair
-              will ask if the original proposer accepts the amendment without
-              bringing it to a vote, and if so, then that amendment is accepted
-              to the motion. If rejected, regular procedure is followed.
             </p>
           </dd>
         </dl>
