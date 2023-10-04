@@ -1,0 +1,6 @@
+---
+number: 305
+mutability: mutable
+---
+
+At any point during the meeting, a player can propose a point inversion which causes the points earned or lost during the next rule change motion to be inverted. For the inversion to come into affect, it requires a 2/3 majority.
