@@ -4,4 +4,4 @@ mutability: mutable
 ---
 
 A count is taken of the number of rules and amendments voted on in each of the previous meetings. For each meeting going forward,
-if the number of rules and amendments voted on exceeds the previous maximum, the chair of this meeting gets 20 points. I Mark Schramm volunteer to commit myself to do this previous count
+if the number of rules and amendments voted on exceeds the previous maximum, the chair of this meeting gets 20 points. Mark Schramm will keep track of this count and reporting it starting at the meeting on 10-18-23
