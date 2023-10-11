@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-04T17:53:05+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-09-27</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-27" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/27/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-11T16:13:19+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-10-04</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-04" /><published>2023-10-04T00:00:00+00:00</published><updated>2023-10-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;10042023-1145am&quot;&gt;10/04/2023, 11:45am&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Edward Miller&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Sreehari Kalloormana&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo-Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Edward Miller (EM), Joshua Rollins (JR), Rose Wong (RW), Sreehari Kalloormana (SK)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;Mark Schramm (MS), Zhiyuan Jin (ZJ)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 12:38pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of the previous minutes&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Pull requests&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+&lt;p&gt;Agenda moved by JR, seconded by BA&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes to amend the agenda by processing Pull Request #26 (Proposal 315) first in Item 4, as Item 4a, with everything else under 4b. Seconded by JR.&lt;/p&gt;
+
+&lt;p&gt;JR proposes to amend the amendment by moving Item 4a to 2a. Seconded by MVJ. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ calls the question on the amendment, seconded by BA. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;JH calls the question on Item 1, “Approval of the Agenda”. Seconded by MVJ. Passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-previous-minutes&quot;&gt;Item 2. Approving the Previous Minutes&lt;/h3&gt;
+&lt;p&gt;MVJ proposes correction of the minutes by fixing the spacing in lines 62, 65, 73, 88, 91, and 94. Seconded by BA.&lt;/p&gt;
+
+&lt;p&gt;JR proposes to add correction of MS’s initial. This was subsumed to MVJ’s proposal.&lt;/p&gt;
+
+&lt;p&gt;JH proposes additional edits: fixing capitalizations, missing periods. Seconded by MVJ.&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes to consider all the edits as one. Seconded by BA. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ moves to approve the minutes as amended. Seconded by BA. Passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2a-pull-request-26-proposal-315&quot;&gt;Item 2a. Pull Request #26 (Proposal 315)&lt;/h3&gt;
+&lt;p&gt;JH moves to replace Proposal 315 with a rule change for Rule 208, seconded by RW.&lt;/p&gt;
+
+&lt;p&gt;Proposal number corrected from 315 to 312 by MVJ.&lt;/p&gt;
+
+&lt;p&gt;RW moves to amend Proposal 312 to say that “players with the maximum points wins”. Seconded by BA.&lt;/p&gt;
+
+&lt;p&gt;JH raises a point of order: The proposed amendment is in conflict with Rule 112. Point of order is well taken.&lt;/p&gt;
+
+&lt;p&gt;MVJ moves to suspend the rules in order to consider both the change in mutability and the abolishment of Rule 112 together with proposal 312 as a single unit for consideration.
+BA seconded.
+EM calls the question. 
+Nays: JR. 
+Ayes: MVJ, JH, BA, RW, SK.&lt;/p&gt;
+
+&lt;p&gt;EM calls the question on proposal 312 together with making 112 mutable and abolishing 112.
+Nays: JR
+Ayes: MVJ, JH, BA, RW, SK.
+The proposal does not pass.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-unfinished-business&quot;&gt;Item 3. Unfinished Business&lt;/h3&gt;
+&lt;p&gt;JH proposes to postpone Item 3 until a meeting in which Mark Schramm is present. Seconded by BA.
+Passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4-pull-requests&quot;&gt;Item 4. Pull Requests&lt;/h3&gt;
+&lt;p&gt;Consider Proposal 315 by JR.&lt;/p&gt;
+
+&lt;p&gt;RW moves to amend the proposal. No second.&lt;/p&gt;
+
+&lt;p&gt;JH calls the question. Seconded by MVJ. 
+Nays: BA, SK, EM
+Ayes: MVJ, JH, JR, RW&lt;/p&gt;
+
+&lt;p&gt;MVJ calls for division.
+Ayes: BA, SK, EM, MVJ, JH, JR, RW&lt;/p&gt;
+
+&lt;p&gt;Motion passes. 100pts added to everyone’s score. The first iteration of the game of CUNY-nomic ends.&lt;/p&gt;
+
+&lt;p&gt;JH proposes to move to the next item on the agenda. Seconded by JR.
+Ayes: RW, BA, JH, JR
+Motion passes.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-5-new-business&quot;&gt;Item 5. New Business&lt;/h3&gt;
+&lt;p&gt;MVJ proposes a 5 minute recess at 1:23pm. Seconded by BA. Motion passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;Recess extended for a few more minutes at 1:28pm.&lt;/p&gt;
+
+&lt;p&gt;Meeting called back to order by EM at 1:33pm.&lt;/p&gt;
+
+&lt;p&gt;MVJ explains the new rule sets for the next NOMIC game.&lt;/p&gt;
+
+&lt;p&gt;EM moves to adjourn at 1:39pm, seconded by BA. 
+Ayes: RW, EM
+Nays: JH
+Motion to adjourn does not pass.&lt;/p&gt;
+
+&lt;p&gt;EM moves to adjourn, seconded by JR.
+Ayes: MVJ, EM, JR, RW, SK
+Nays: BA
+Abstains: JH
+Motion to adjourn passes. Meeting adjourned at 1:42pm.&lt;/p&gt;</content><author><name>Sreehari Kalloormana</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-09-27</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-27" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/27/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/27/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;9272023-1145am&quot;&gt;9/27/2023, 11:45am&lt;/h2&gt;
 
