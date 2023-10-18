@@ -6,13 +6,13 @@
   points: 0
 - name: Bilal Abdulrahman
   group: students
-  points: 0
+  points: 34
 - name: Mark Schramm
   group: students
   points: 0
 - name: Zhijuan Jin
   group: students
-  points: 0
+  points: 10
 - name: Edward Miller
   group: students
   points: 0
@@ -24,4 +24,4 @@
   points: 0
 - name: Rose Wong
   group: students
-  points: 0
+  points: -30
