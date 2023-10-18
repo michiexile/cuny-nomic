@@ -1,4 +1,179 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-18T15:22:22+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-10-04</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-04" /><published>2023-10-04T00:00:00+00:00</published><updated>2023-10-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-18T16:39:29+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-10-11</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-11" /><published>2023-10-11T00:00:00+00:00</published><updated>2023-10-11T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/11/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;10112023-1145-am&quot;&gt;10/11/2023, 11:45 AM&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Zhiyuan Jin&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Joshua Rollins&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Joshua Rollins (JR), Bilal Abdulrahman (BA)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;Rose Wong (RW)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;The meeting was called to order at 11:59 AM.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of the previous minutes&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Pull requests&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+&lt;p&gt;Agenda moved by ZJ, seconded by JR.
+Approved unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-previous-minutes&quot;&gt;Item 2. Approving the Previous Minutes&lt;/h3&gt;
+&lt;p&gt;JH proposed to add MVJ’s suspension of the rules to combine abolishing Rule 112 and moving Proposal 312, seconded by JR.
+The amendment to the minutes recording this passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;JH moves to amend the minutes seconded by MS.
+The amendment to minutes by JH passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;JH moved to amend the minutes on line 76 to include that the item was specifically postponed to a meeting in which Mark was in attendance to consider the motion, seconded by MS.
+The motion passed by majority.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to approve the previous minutes with amendments seconded by MS.
+Debated by EM.&lt;/p&gt;
+
+&lt;p&gt;ZJ moved accepting previous minutes as stated with amendments, seconded by MVJ.
+Passes unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3a-pull-request-22&quot;&gt;Item 3a. Pull Request #22&lt;/h3&gt;
+&lt;p&gt;MVJ moved that the old pull requests, #22 and #23, are resubmitted in the new branch, seconded by MS.&lt;/p&gt;
+
+&lt;p&gt;JH moved to amend the motion to ignore previous business instead of considering it resubmitted and reviewed immediately, seconded by MVJ.
+The amendment is adopted unanimously.
+The motion from MVJ was passed unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4a-pull-request-31&quot;&gt;Item 4a. Pull Request #31&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #31 by BA.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to consider all 7 file changes in pull request #31 as a single unit, seconded by EM.
+EM calls the question, seconded by MVJ.
+The motion to call the question is passed unanimously.
+Ayes: MVJ, JR, MS, JH
+Nays: EM.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved that pull request #31 is considered incorrectly formatted as stated in Rule #104 and should be discarded, seconded by JR.
+The motion passed unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4b-pull-request-32&quot;&gt;Item 4b. Pull Request #32&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #32 by RW.&lt;/p&gt;
+
+&lt;p&gt;EM motioned to recess for 5 minutes after considering the Pull Request, seconded by MS.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to amend the Pull Request to agree with the rule numbering, seconded by JR.
+Passed unanimously. The rule’s name was updated to 332.md.
+JH called the question, MVJ seconded.
+Calling the question passed unanimously.
+Ayes: None
+Nays:  MVJ, EM, JH, JR, MS
+RW lost 10 points for having the proposal declined.&lt;/p&gt;
+
+&lt;p&gt;EM proposes a 5-minute recess, seconded by JH.
+The motion to recess passed unanimously.
+Recess began at 12:45 PM.&lt;/p&gt;
+
+&lt;p&gt;BA entered.
+Called to order at 12:52 PM.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4c-pull-request-33&quot;&gt;Item 4c. Pull Request #33&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #33 by RW, seconded by MVJ.
+MVJ had already changed the numbering scheme to reflect our formatting considerations.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to amend the second half of the second to “then any point gains by the lead player will be reduced by 50% until the advantage drops below 20 points.” Seconded by EM.
+Ayes: MVJ, JH, EM, JR, BA, MS 
+Nay: 
+The amendment was adopted unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ called the question, seconded by JR.
+The motion to call the question is unanimous.
+BA called for a division of the house.
+Ayes: MVJ
+Nays: BA, MS, ZJ, EM, JH, JR
+The rule does not pass, RW loses 10 points.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4d-pull-request-34&quot;&gt;Item 4d. Pull Request #34&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #34 by RW, seconded by EM.
+MVJ had already changed the numbering scheme to reflect our formatting considerations.&lt;/p&gt;
+
+&lt;p&gt;BA moved to amend the rule change to “add 10 then take the pull request number and then divide that pull request number by 10.”&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to put forth their own rule change. It is out of order.&lt;/p&gt;
+
+&lt;p&gt;BA called the question, seconded by MVJ.
+The motion to call the question passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;BA moved to withdraw the amendment, seconded by MVJ.
+Ayes: MVJ, BA, JR, MS, EM
+Nays: JH&lt;/p&gt;
+
+&lt;p&gt;BA called the question, seconded by MVJ.
+The motion to call the question passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;Voting on the question:
+Ayes: 
+Nays: MS, BA, EM, JR, JH, MVJ
+Abstain: ZJ
+The rule does not pass, RW loses 10 points.&lt;/p&gt;
+
+&lt;p&gt;The meeting has been recessed at 1:10 PM.
+The meeting has been called to order at 1:13 PM.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4e-pull-request-36&quot;&gt;Item 4e. Pull Request #36&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #36 by MVJ, seconded by BA.
+MVJ had already changed the numbering scheme to reflect our formatting considerations.&lt;/p&gt;
+
+&lt;p&gt;BA moved to amend the rule change to add after the word integer “, and then add 10 points.” Seconded by MS.
+MVJ moved to amend the amendment to 5 points instead of 10 points, seconded by EM.
+Voting on the amendment to the amendment.
+Ayes: EM, MVJ, MS
+Nays: BA, JR
+Abstain: JH, ZJ&lt;/p&gt;
+
+&lt;p&gt;The amendment to BA’s amendment passed by a majority.&lt;/p&gt;
+
+&lt;p&gt;MS proposed an amendment, where the prosper would write out the point addition they would expect. Amendment withdrawn.&lt;/p&gt;
+
+&lt;p&gt;Voting on BA’s amendment amendment.
+Ayes: MVJ, BA, EM, JH
+Nays: JR, MS
+Abstain: ZJ
+Amendment passed.&lt;/p&gt;
+
+&lt;p&gt;Voting on the rule change.
+Ayes: MVJ, EM
+Nays: JH, BA, MS
+Abstain: ZJ
+The rule does not pass, and MVJ loses 10 points.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4f-pull-request-37&quot;&gt;Item 4f. Pull Request #37&lt;/h3&gt;
+&lt;p&gt;Consider Pull Request #37 by BA, seconded by EM.&lt;/p&gt;
+
+&lt;p&gt;MVJ objected to consideration of the question, EM seconds. MVJ withdraws his objection.&lt;/p&gt;
+
+&lt;p&gt;JR proposed an amendment, that specifies that the game where they can wager points, seconded by MS. Passed unanimously. The amendment to the rule change is adopted.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to change the numbering scheme to reflect our formatting considerations and fix spelling changes, seconded by EM.&lt;/p&gt;
+
+&lt;p&gt;EM proposed the amendment to change “players can also wager their points in the beginning of the game”, to “players can also wager any points that they have accumulated in the game of nomic in the game of Fluxx.” Seconded by ZJ.
+Passed unanimously. Amendment accepted.&lt;/p&gt;
+
+&lt;p&gt;Voting on the rule change.
+Ayes: MS, JH, BA, EM, JR
+Nays: MVJ, ZJ
+The rule change has been accepted. BA wins 34 points. 
+MVJ and ZJ win 10 points each.&lt;/p&gt;
+
+&lt;p&gt;ZJ motioned to adjourn, seconded by EM.
+The motion passed unanimously at 1:41 PM.&lt;/p&gt;</content><author><name>Joshua Rollins</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-10-04</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-04" /><published>2023-10-04T00:00:00+00:00</published><updated>2023-10-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;10042023-1145am&quot;&gt;10/04/2023, 11:45am&lt;/h2&gt;
 
