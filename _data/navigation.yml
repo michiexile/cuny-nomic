@@ -5,4 +5,25 @@
   link: /rules
 
 - title: Minutes
+<<<<<<< HEAD
   link: /minutes
+=======
+  link: /minutes
+
+- title: Players
+  link: /players
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> upstream/F23
