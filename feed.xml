@@ -1,4 +1,207 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-18T17:53:42+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-10-11</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-11" /><published>2023-10-11T00:00:00+00:00</published><updated>2023-10-11T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/11/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-10-25T16:40:51+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-18-04</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/18/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-18-04" /><published>2023-10-18T00:00:00+00:00</published><updated>2023-10-18T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/18/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/18/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;10182023-1145am&quot;&gt;10/18/2023, 11:45am&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Mark Schramm (MS)&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Rose Wong (RW)&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo-Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Edward Miller (EM), Joshua Rollins (JR), Mark Schramm (MS), Rose Wong (RW), Zhiyuan Jin (ZJ)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;Sreehari Kalloormana (SK)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 12:22pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of the Minutes&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+&lt;p&gt;MVJ moves to approve the agenda, seconded by EM&lt;/p&gt;
+
+&lt;p&gt;JR proposes to amend the agenda by adding Pull Request. Seconded by BA.&lt;/p&gt;
+
+&lt;p&gt;Final Agenda&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of the Minutes&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Pull requests&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;BA calls the question. Seconded. Proposal to amend agenda passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to approve the agenda as amended. Seconded. Approved unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approval-of-the-minutes&quot;&gt;Item 2. Approval of the Minutes&lt;/h3&gt;
+&lt;p&gt;EM proposes to amend line 39. Seconded by MVJ&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to amend Item 4d to “Motion does not pass, RW loses 10 points.” Passed unanimously&lt;/p&gt;
+
+&lt;p&gt;MVJ moved and seconded by BA to amend line 186 to read “MVJ and ZJ win 10 points each”. Passed unanimously&lt;/p&gt;
+
+&lt;p&gt;EM moves and BA seconded to suspend the rule to condense changes to minutes into one item.&lt;/p&gt;
+
+&lt;p&gt;EM withdrew motion and seconded by MVJ.&lt;/p&gt;
+
+&lt;p&gt;MS motioned to approve the minutes. Seconded by BA. Minutes approved unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-unfinished-business&quot;&gt;Item 3. Unfinished Business&lt;/h3&gt;
+&lt;p&gt;No unfinished business&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4&quot;&gt;Item 4.&lt;/h3&gt;
+
+&lt;h4 id=&quot;pull-request-38-by-ba&quot;&gt;Pull Request 38 by BA&lt;/h4&gt;
+
+&lt;p&gt;MVJ proposes to amend the rule change by “changing work individually on line 6 to simultaneously”. Seconded by EM.&lt;/p&gt;
+
+&lt;p&gt;JH motioned to call the question. Seconded by BA. Passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;Ayes: MVJ, JH, BA, EM, JR, RW
+Nay: ZJ
+Amendment passes 6 - 1&lt;/p&gt;
+
+&lt;p&gt;MVJ called the question. Seconded.
+Ayes: MVJ, JH, BA, JR, RW, ZJ
+Nay: EM
+Question called 6 - 1&lt;/p&gt;
+
+&lt;p&gt;Ayes: MVJ, JH, BA, JR
+Nay: EM, ZJ, RW, MS&lt;/p&gt;
+
+&lt;p&gt;Rule change 38 failed and BA loses 10 points&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-39-by-ba&quot;&gt;Pull Request 39 by BA&lt;/h4&gt;
+
+&lt;p&gt;MVJ moves to change first sentence to read “anyone voting in favor of a failing rule change will gain 10 points.” Seconded by BA.&lt;/p&gt;
+
+&lt;p&gt;JH called to question. Call passed unanimously&lt;/p&gt;
+
+&lt;p&gt;Amendment passed unanimously&lt;/p&gt;
+
+&lt;p&gt;JH motions to strike the second sentence. Seconded by MVJ.&lt;/p&gt;
+
+&lt;p&gt;MS called the question. Call passed unanimously&lt;/p&gt;
+
+&lt;p&gt;MS called to question. Seconded. Amendment passed unanimously&lt;/p&gt;
+
+&lt;p&gt;BA proposes amendment to change from 10 to 5 points. No second.&lt;/p&gt;
+
+&lt;p&gt;JH proposed “anyone voting in favor of a failed rule change that is not their own will gain 10 points”. Seconded. Amendment passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ called the question. Seconded. Call passed unanimously&lt;/p&gt;
+
+&lt;p&gt;Ayes: MVJ, JH, BA, JR, MS, ZJ
+Nays: EM
+Abstains: RW&lt;/p&gt;
+
+&lt;p&gt;Rule change passes 6 - 1&lt;/p&gt;
+
+&lt;p&gt;Point gains: BA +35, EM + 10&lt;/p&gt;
+
+&lt;p&gt;BA moved to postpone consideration of PRs #41, #42 until next week. Seconded by JR. Motion passed unanimously&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-43-by-ms&quot;&gt;Pull request 43 by MS&lt;/h4&gt;
+
+&lt;p&gt;BA moved and seconded by EM to remove “and amendments” Passed unanimously&lt;/p&gt;
+
+&lt;p&gt;MVJ moved to amend last sentence starting with Mark S to “ a new officer of the role called the “records keeper” is instituted and elected from the participants whose responsibilitiy is to track and report the current max number of rules voted on and to track and report the chair rewards”. Seconded.&lt;/p&gt;
+
+&lt;p&gt;ZJ moved to amend the amendment to “the secretary will tract and report…” Seconded.&lt;/p&gt;
+
+&lt;p&gt;ZJ called the question on amendment to amendment. seocnded by MVJ. Passed unananimously.&lt;/p&gt;
+
+&lt;p&gt;Amendment to amendment passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;Vote on amendment:
+Ayes: MVJ, BA, MS, ZJ, EM, RW
+Nays: JH, JR&lt;/p&gt;
+
+&lt;p&gt;Amendment passed&lt;/p&gt;
+
+&lt;p&gt;BA called the question on rule change. Seconded. Call passed unanimously.&lt;/p&gt;
+
+&lt;p&gt;Ayes: BA, MS, JR, ZJ
+Nays: JH, EM, MVJ, RW
+Rule change failed&lt;/p&gt;
+
+&lt;p&gt;Points: +10 points each to BA, JR, ZJ,  -10 points to Mark&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-45-by-em&quot;&gt;Pull Request 45 by EM&lt;/h4&gt;
+
+&lt;p&gt;MVJ moves to amend “introduce on line 5 “the dissenters is someone who votes against a rule change proposal or for a losing rule change proposal…” Seconded by BA&lt;/p&gt;
+
+&lt;p&gt;JH moves to suspend the rules in order to allow this rule change to be discussed alongside the abolishment of rule 339. Seconded by BA.
+Passes unanimously&lt;/p&gt;
+
+&lt;p&gt;BA called the question and seconded by MVJ. Call passes unanimously. Question is to amend “dissenter receives 10 points, if two dissenters 5 points each, if more than 3 no points”&lt;/p&gt;
+
+&lt;p&gt;Ayes: MVJ, JH, BA, MS, ZJ, RW, EM
+Nays: JR&lt;/p&gt;
+
+&lt;p&gt;Vote on the pull request:
+Ayes: MVJ, EM, JH, RW 
+Nays: BA, JR, ZJ&lt;/p&gt;
+
+&lt;p&gt;Rule change passes 4 - 3&lt;/p&gt;
+
+&lt;p&gt;Points +32 points to EM and +10 to dissenters JR, BA and ZJ&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-46-by-ba&quot;&gt;Pull Request 46 by BA&lt;/h4&gt;
+
+&lt;p&gt;MVJ motions to suspend any Pull Request by BA. Seconded by BA. 
+Ayes: MVJ, JH, BA, MS, RW, EM, JR
+Nays: ZJ
+Motion passes by majority&lt;/p&gt;
+
+&lt;p&gt;Pull request 48 by MVJ&lt;/p&gt;
+
+&lt;p&gt;Ayes: RW, JR, BA, EM, MVJ 
+Nays: JH, MS, ZJ&lt;/p&gt;
+
+&lt;p&gt;Rule change passes 5 vs. 3&lt;/p&gt;
+
+&lt;p&gt;Points: MVJ +36&lt;/p&gt;
+
+&lt;p&gt;ZJ moved and seconded by MVJ to adjourn. Motion rejected unanimously&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-40-by-ba&quot;&gt;Pull Request 40 by BA&lt;/h4&gt;
+
+&lt;p&gt;MVJ moves to amend proposal with 2 edits: insert word “only” instead of “during”, and “to be multiplied by negative 1”. Seconded by BA.&lt;/p&gt;
+
+&lt;p&gt;MS moves to suspend rules to discuss edits. Passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;MVJ moves to change wording to “for the next rule change vote”. Seconded by JH&lt;/p&gt;
+
+&lt;p&gt;JH proposes to amend “only on rule change that is currently on the floor”&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes edits to first clause&lt;/p&gt;
+
+&lt;p&gt;JH proposes and seconded by EM to suspend rules to consider all proposals.&lt;/p&gt;
+
+&lt;p&gt;JR called the question (to amend the rule change). Call passes unanimously&lt;/p&gt;
+
+&lt;p&gt;BA called the question. Seconded by MVJ. Passes unanimously&lt;/p&gt;
+
+&lt;p&gt;Aye - RW, EM, JH, BA
+Nays - JR, MVJ, AJ
+Abstain - MS&lt;/p&gt;
+
+&lt;p&gt;Rule change passes 4 to 3&lt;/p&gt;
+
+&lt;p&gt;Points - BA +29&lt;/p&gt;
+
+&lt;p&gt;BA moved to adjourn MVJ. Seconded.
+Meeting adjourned 1:51PM.&lt;/p&gt;</content><author><name>Rose Wong</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-10-11</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-11" /><published>2023-10-11T00:00:00+00:00</published><updated>2023-10-11T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/11/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/11/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;10112023-1145-am&quot;&gt;10/11/2023, 11:45 AM&lt;/h2&gt;
 
