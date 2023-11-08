@@ -1,4 +1,238 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-08T18:12:34+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-10-25</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/25/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-25" /><published>2023-10-25T00:00:00+00:00</published><updated>2023-10-25T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/25/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/25/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-08T18:14:58+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-11-01</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-01" /><published>2023-11-01T00:00:00+00:00</published><updated>2023-11-01T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/01/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;1112023-1145am&quot;&gt;11/1/2023, 11:45am&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Joshua Rollins (JR) substituting for Zhiyuan Jin (ZJ),&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Edward Miller (EM)&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 12:19pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving of Agenda&lt;/li&gt;
+  &lt;li&gt;Review Minutes&lt;/li&gt;
+  &lt;li&gt;Collection of priority bids&lt;/li&gt;
+  &lt;li&gt;Unfinished business&lt;/li&gt;
+  &lt;li&gt;Reviewing pull requests&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1--approving-the-agenda&quot;&gt;Item 1.  Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;Agenda moved by JR. Agenda approved as is unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2--approving-the-minutes&quot;&gt;Item 2.  Approving the Minutes&lt;/h3&gt;
+
+&lt;p&gt;Motion by JR to suspend the rules to allow for all changes to minutes to be approved at once, seconded. Motion passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;Minutes amended to show points lost by BA as 43 points and RW losing 10 points during consideration of Pull Request (PR) 41.&lt;/p&gt;
+
+&lt;p&gt;Minutes amended to show 63 points gained for PR 53, and BA spending 1 point.&lt;/p&gt;
+
+&lt;p&gt;JH uses point of privilege to leave the meeting at 12:34pm.&lt;/p&gt;
+
+&lt;p&gt;JR calls for vote, minutes approved as corrected unanimously.&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3--collection-of-priority-bids&quot;&gt;Item 3.  Collection of priority bids&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MVJ proposes spending 5 points on PR 57&lt;/li&gt;
+  &lt;li&gt;MVJ proposes spending 5 points on PR 58&lt;/li&gt;
+  &lt;li&gt;BA proposes spending 6 points on PR 54&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;JH returns to meeting at 12:38pm&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4--unfinished-business&quot;&gt;Item 4.  Unfinished Business&lt;/h3&gt;
+
+&lt;h4 id=&quot;pull-request-54&quot;&gt;Pull Request 54&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 54 - Rule 354 by BA.&lt;/p&gt;
+
+&lt;p&gt;BA spends 6 points on PR 54.&lt;/p&gt;
+
+&lt;p&gt;BA proposes amendment changes number 30 to the number 15 and changes half an hour to 15 minutes.&lt;/p&gt;
+
+&lt;p&gt;JR makes point of order with regards to SK having the floor during discussion of amendment to proposed rule&lt;/p&gt;
+
+&lt;p&gt;MVJ makes point of order with regards to there is amendment on the floor that needs to be considered&lt;/p&gt;
+
+&lt;p&gt;BA proposes amendment that penalty cannot exceed 50 points.
+JH proposes amendment to amendment cannot exceed 45 points instead of 50 points.&lt;/p&gt;
+
+&lt;p&gt;JH calls the question, seconded.
+Amendment to amendment passes with majority vote, MVJ votes nay.&lt;/p&gt;
+
+&lt;p&gt;JH proposes rewording of amendment to state that players late to class by more than 15 minutes receive a point deduction for each point that they are late - 15 minutes for a maximum of 45 points.&lt;/p&gt;
+
+&lt;p&gt;JR calls for vote to reword amendment, passes unanimously.
+JR calls for vote on proposed amendment, passes unanimously.
+JH proposes amendment to reword “absence” to “player’s absence”, seconded.
+JR calls for vote on amendment, amendment to rule passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;Vote taken on rule 354, 6 ayes, JR votes nay.&lt;/p&gt;
+
+&lt;p&gt;Rule 354 passes with majority vote.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BA receives 55 points for rule adoption + 10 points = 65 points&lt;/li&gt;
+  &lt;li&gt;JR receives 10 points for dissenting vote + 10 points = 20 points&lt;/li&gt;
+  &lt;li&gt;MVJ receives 10 points&lt;/li&gt;
+  &lt;li&gt;JH receives 10 points&lt;/li&gt;
+  &lt;li&gt;EM receives 10 points&lt;/li&gt;
+  &lt;li&gt;SK receives 10 points&lt;/li&gt;
+  &lt;li&gt;ZJ receives 10 points&lt;/li&gt;
+  &lt;li&gt;MS receives 10 points&lt;/li&gt;
+  &lt;li&gt;RW receives 10 points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pull-request-57&quot;&gt;Pull request #57&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 57 - Rule 357 by MVJ.&lt;/p&gt;
+
+&lt;p&gt;MVJ spends 5 points on PR 57.&lt;/p&gt;
+
+&lt;p&gt;JH makes motion for point inversion for pull request 57.&lt;/p&gt;
+
+&lt;p&gt;Point inversion passes with majority vote, 6 ayes, MVJ votes nay.&lt;/p&gt;
+
+&lt;p&gt;JH calls question, vote taken on rule 357, vote taken, 6 ayes, JR abstains.&lt;/p&gt;
+
+&lt;p&gt;Rule 357 passes with majority vote.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MVJ loses 57 points due to point inversion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pull-request-58&quot;&gt;Pull Request 58&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 58 – Removal of rule 209 by MVJ&lt;/p&gt;
+
+&lt;p&gt;MVJ spends 5 points on PR 58.&lt;/p&gt;
+
+&lt;p&gt;JH calls question, vote taken on removal of rule 209, 5 ayes, JR nay, EM nay.&lt;/p&gt;
+
+&lt;p&gt;Removal of rule 209 passes with majority vote.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MVJ gains 49 points&lt;/li&gt;
+  &lt;li&gt;JR gains 5 points&lt;/li&gt;
+  &lt;li&gt;EM gains 5 points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pull-request-42&quot;&gt;Pull request 42&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 42 – Rule 307 by BA.&lt;/p&gt;
+
+&lt;p&gt;Motion to review not seconded, and not reviewed.&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-46&quot;&gt;Pull request 46.&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 46 – update of rule 208 by BA.&lt;/p&gt;
+
+&lt;p&gt;Motion to review not seconded, and not reviewed.&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-47&quot;&gt;Pull request 47&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 47 – Rule 346 by BA&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes amendment to add 100 points to players with negative point balances and
+players with positive points to 50 points, seconded.&lt;/p&gt;
+
+&lt;p&gt;JH proposes amendment to amendment changing the word “positive” to “non-negative”, seconded.&lt;/p&gt;
+
+&lt;p&gt;JH proposes amendment to amendment to change adding 100 points to setting point balance at 50 points for players
+with negative point balances.&lt;/p&gt;
+
+&lt;p&gt;JH calls question, seconded amendment to amendment, passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;JR calls vote, vote taken on rule 346 - 4 ayes, RW nay, EM nay, SR nay.&lt;/p&gt;
+
+&lt;p&gt;Rule 346 passes with majority vote&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BA receives 33 points for rule adoption + 50 points for 83 points&lt;/li&gt;
+  &lt;li&gt;MVJ receives 50 points&lt;/li&gt;
+  &lt;li&gt;JH receives 50 point&lt;/li&gt;
+  &lt;li&gt;EM receives 50 points&lt;/li&gt;
+  &lt;li&gt;SK receives 50 points&lt;/li&gt;
+  &lt;li&gt;JR receives 50 points&lt;/li&gt;
+  &lt;li&gt;ZJ receives 50 points&lt;/li&gt;
+  &lt;li&gt;MS receives 50 points (Note: earlier 10 points made his point total 0, so only 50 points)&lt;/li&gt;
+  &lt;li&gt;RW has points set to 50 points.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pull-request-51&quot;&gt;Pull request 51&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 51 – Rule 351 by JR&lt;/p&gt;
+
+&lt;p&gt;JH calls question, seconded.&lt;/p&gt;
+
+&lt;p&gt;Vote taken on rule 346 -3 ayes, EM nay, RW nay, SR, MVJ abstaining.
+Rule 351 passes by majority vote&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;JR gains 26 points&lt;/li&gt;
+  &lt;li&gt;EM gains 5 points&lt;/li&gt;
+  &lt;li&gt;RW gains 5 points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;pull-request-55-put-onto-the-floor&quot;&gt;Pull request 55 put onto the floor.&lt;/h4&gt;
+
+&lt;p&gt;Consideration of PR 55 – Rule 356 by BA&lt;/p&gt;
+
+&lt;p&gt;Point inversion requested by MVJ, seconded.
+JH calls question, point inversion passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;Point of order made by JH, call the question already made during debate.&lt;/p&gt;
+
+&lt;p&gt;Vote taken for Rule 356 – MVJ aye, RW abstention, remaining nays.&lt;/p&gt;
+
+&lt;p&gt;Rule change defeated.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;BA gains 10 points due to point inversion&lt;/li&gt;
+  &lt;li&gt;MVJ loses 10 points due to point inversion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MNJ motions to adjourn, seconded, motion approved unanimously.&lt;/p&gt;
+
+&lt;p&gt;Meeting adjourned at 1:21pm&lt;/p&gt;
+
+&lt;p&gt;Meeting called back to order at 1:41pm by JH, seconded.&lt;/p&gt;
+
+&lt;h3 id=&quot;points-recorded-during-game-of-fluxx&quot;&gt;Points recorded during game of Fluxx&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BA lost 10 points&lt;/li&gt;
+  &lt;li&gt;MVJ gained 10 points&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Motion to adjourn by MVJ, seconded.&lt;/p&gt;
+
+&lt;p&gt;Meeting adjourned at 1:41pm&lt;/p&gt;
+
+&lt;h2 id=&quot;total-player-points-gainedlost-on-nov-1-23&quot;&gt;Total Player Points Gained/Lost on Nov-1-23&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BA       -6 +65 +83 +10 -10               = 142 points gained&lt;/li&gt;
+  &lt;li&gt;MVJ      -5 -5 +10 -57 +49 +50 -10 +10     = 42 points gained&lt;/li&gt;
+  &lt;li&gt;JH       +10 +50			           = 60 points gained&lt;/li&gt;
+  &lt;li&gt;EM       +10 +5 +50 +5 		           = 70 points gained&lt;/li&gt;
+  &lt;li&gt;SK       +10 +50			           = 60 points gained&lt;/li&gt;
+  &lt;li&gt;JR       +20 +5 +50 +26		           = 101 points gained&lt;/li&gt;
+  &lt;li&gt;RW       Set at 50 +5		           = 55 points -&amp;gt; CURRENT POINT STANDING IN GAME&lt;/li&gt;
+  &lt;li&gt;ZJ       +10 +50			           = 60 points gained&lt;/li&gt;
+  &lt;li&gt;MS       +10 +50			           = 60 points gained&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: This does not include point corrections to previous minutes,
+only those gained/lost on above date.&lt;/p&gt;</content><author><name>Edward Miller</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2023-10-25</title><link href="https://michiexile.github.io/cuny-nomic/2023/10/25/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-10-25" /><published>2023-10-25T00:00:00+00:00</published><updated>2023-10-25T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/10/25/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/10/25/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;10252023-1145am&quot;&gt;10/25/2023, 11:45am&lt;/h2&gt;
 
