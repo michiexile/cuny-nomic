@@ -1,27 +1,27 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: 73
+  points: 115
 - name: Jonathan Hanon
   group: teachers
-  points: 0
+  points: 60
 - name: Bilal Abdulrahman
   group: students
-  points: 71
+  points: 213
 - name: Mark Schramm
   group: students
-  points: -10
+  points: 50
 - name: Zhijuan Jin
   group: students
-  points: 30
+  points: 90
 - name: Edward Miller
   group: students
-  points: 42
+  points: 112
 - name: Sreehari Kalloormana
   group: students
-  points: 0
+  points: 60
 - name: Joshua Rollins
   group: students
-  points: 20
+  points: 121
 - name: Rose Wong
   group: students
-  points: -40
+  points: 55
