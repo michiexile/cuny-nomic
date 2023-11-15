@@ -1,9 +1,0 @@
-Rule proposing is going to be done in alphabetical order based on the initial of a player's name. Each player takes their turn to propose a rule change when it is their turn.
-
-One player can submit multiple rule changes at once on GitHub, but they are limited to a maximum of three rule changes at once. After submitting three consecutive rule changes, the next rule change proposal must come from the next player in the alphabetical order.
-
-If there are multiple pull requests on GitHub, the pull requests from the players in order will be prioritized, and so on.
-
-Players must propose at least one rule change when the previous player in the alphabetical order has finished their turn to propose a rule change. Failure to do so results in that player receiving a 50 point deduction.
-
-Players must prepare the rule change proposals for the group's discussion while it's their turn to propose a rule change. in case of we going to pass multiple turns in one class.
