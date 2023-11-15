@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-15T17:18:04+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-11-01</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-01" /><published>2023-11-01T00:00:00+00:00</published><updated>2023-11-01T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/01/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-15T17:22:15+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-11-08</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-08" /><published>2023-11-08T00:00:00+00:00</published><updated>2023-11-08T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/08/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html">&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Zhiyuan Jin (ZJ)&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Rose Wong (RW)&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Jonathan Hanon (JH), Edward Miller (EM), Joshua Rollins (JR), Mark Schramm (MS), Rose Wong (RW), Zhiyuan Jin (ZJ), Sreehari Kalloormana (SK) - arrived 11:59 PM, Bilal Abdulrahman (BA) - arrived 12:17 17 point penalty (32 minutes late)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo-Johansson (MVJ)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Guest will attend Dec 6&lt;/p&gt;
+
+&lt;p&gt;Meeting called to order at 12:55pm&lt;/p&gt;
+
+&lt;p&gt;Proposal for agenda:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of previous Minutes&lt;/li&gt;
+  &lt;li&gt;Collection of priority bids&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Pull requests&lt;/li&gt;
+  &lt;li&gt;New business&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h2&gt;
+&lt;p&gt;JH motioned to add collection of priority bids to agenda as third agenda item. Approved unanimously.
+Agenda approved unanimously.&lt;/p&gt;
+
+&lt;h2 id=&quot;item-2-approval-of-the-minutes&quot;&gt;Item 2. Approval of the Minutes&lt;/h2&gt;
+
+&lt;p&gt;JR motioned to suspend the rules to make all corrections at once. seconded by EM.
+JH suggested the following edits:
+Replace all instances of MJV with MVJ.
+Add on Line 61 that BA spends 6 points once PR 54 once it reaches the floor.
+JH updating point changes in the data file per the minutes.
+Add MVJ spends 5 points on PR 57
+Add MVJ spends 5 points on PR 58&lt;/p&gt;
+
+&lt;p&gt;RW motioned to approve the minutes. Seconded by BA. Minutes approved unanimously&lt;/p&gt;
+
+&lt;h2 id=&quot;item-3-priority-points-bids&quot;&gt;Item 3: Priority Points Bids&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;JR bids 1 point on PR67&lt;/li&gt;
+  &lt;li&gt;BA bids 2 points each on PR 66 and 68&lt;/li&gt;
+  &lt;li&gt;JR revised 3 points on PR67&lt;/li&gt;
+  &lt;li&gt;BA revised 4 points on PR68&lt;/li&gt;
+  &lt;li&gt;EM bids 5 on PR60&lt;/li&gt;
+  &lt;li&gt;JH bids 5 each on 62, 65, 69&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;final-bids-and-order-member-pr-points-bidded&quot;&gt;Final Bids and order (member, PR#, points bidded)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;EM, 60, 5&lt;/li&gt;
+  &lt;li&gt;JH, 62, 5&lt;/li&gt;
+  &lt;li&gt;JH, 65, 5&lt;/li&gt;
+  &lt;li&gt;JH, 69, 5&lt;/li&gt;
+  &lt;li&gt;BA, 68, 4&lt;/li&gt;
+  &lt;li&gt;JR, 67, 3&lt;/li&gt;
+  &lt;li&gt;BA, 66, 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;item-4-unfinished-business&quot;&gt;Item 4. Unfinished Business&lt;/h2&gt;
+&lt;p&gt;No unfinished business&lt;/p&gt;
+
+&lt;h2 id=&quot;item-5---pull-requests&quot;&gt;Item 5 - Pull requests&lt;/h2&gt;
+&lt;p&gt;Pull Request 60 by EM&lt;/p&gt;
+
+&lt;p&gt;JH moves and seconded by EM to amend file name to 360.md. Approved unanimously&lt;/p&gt;
+
+&lt;p&gt;BA motioned to amend by replacing “abstention” with “nays”.
+Ayes - SK, BA, ZJ, JH, MS
+Nays - EM, RW, JR
+Amendment passed&lt;/p&gt;
+
+&lt;p&gt;BA called the question, MS objected
+Ayes - BA, JR
+Nays - SK, ZJ, JH, EM, RW, MS&lt;/p&gt;
+
+&lt;p&gt;MS moves to amend PR to remove last paragraph, seconded by JR
+Ayes - SK, JR, MS, RW, ZJ
+No Nays were counted
+Amendment passes by majority&lt;/p&gt;
+
+&lt;p&gt;JR calls for point inversion, seconded by JH
+Ayes - SK, ZJ, JH, RW, BA, MS
+Nays - JR, EM
+Point inversion passes by majority&lt;/p&gt;
+
+&lt;p&gt;RW called the question and seconded by MS
+Call passes unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on PR 60:
+Ayes - SK, JH, RW, BA, MS, JR
+Nays - EM
+Abstain - ZJ
+PR 60 passes by majority
+Points result: EM loses 70 plus spent 5 (bid) - total -75&lt;/p&gt;
+
+&lt;p&gt;BA motioned and EM seconded to adjourn meeting. 
+Passes unanimously.
+Meeting adjourned 1:46&lt;/p&gt;
+
+&lt;p&gt;Summary:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;EM -75&lt;/li&gt;
+  &lt;li&gt;BA -17&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Rose Wong</name></author><summary type="html">Meeting Chair: Zhiyuan Jin (ZJ)</summary></entry><entry><title type="html">Minutes 2023-11-01</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-01" /><published>2023-11-01T00:00:00+00:00</published><updated>2023-11-01T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/01/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/01/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;1112023-1145am&quot;&gt;11/1/2023, 11:45am&lt;/h2&gt;
 
@@ -1165,71 +1272,4 @@ Against: (all of the voters)
 Result: Rejected&lt;/p&gt;
 
 &lt;h2 id=&quot;no-unfinished-business&quot;&gt;no unfinished business&lt;/h2&gt;
-&lt;h2 id=&quot;no-new-business&quot;&gt;no new business&lt;/h2&gt;</content><author><name>Zhiyuan Jin</name></author><summary type="html">Meeting Chair: Bilal AbdulRahman</summary></entry><entry><title type="html">Minutes 2023-08-30</title><link href="https://michiexile.github.io/cuny-nomic/2023/08/30/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-08-30" /><published>2023-08-30T00:00:00+00:00</published><updated>2023-08-30T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/08/30/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/08/30/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
-
-&lt;h2 id=&quot;8302023-1145am&quot;&gt;8/30/2023, 11:45am&lt;/h2&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
-  &lt;dd&gt;Mikael Vejdemo-Johansson&lt;/dd&gt;
-  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
-  &lt;dd&gt;Jonathan Hanon&lt;/dd&gt;
-  &lt;dt&gt;Present:&lt;/dt&gt;
-  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Meeting called to order at 12:54pm&lt;/p&gt;
-
-&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Approving the agenda&lt;/li&gt;
-  &lt;li&gt;Pull requests created by MVJ&lt;/li&gt;
-  &lt;li&gt;Presidium assignments for the semester&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
-
-&lt;p&gt;Agenda moved by MVJ, seconded by JH&lt;/p&gt;
-
-&lt;p&gt;JR proposes to amend the agenda to include “Formatting of pull requests and commits” as a new item, seconded by RW&lt;/p&gt;
-
-&lt;p&gt;Amendment to proposed agenda approved unanimously as Item 4 for the Proposed agenda, we return to discussing the agenda&lt;/p&gt;
-
-&lt;p&gt;Agenda carries unanimously&lt;/p&gt;
-
-&lt;h3 id=&quot;item-2-pull-requests-created-by-mvj&quot;&gt;Item 2. Pull requests created by MVJ&lt;/h3&gt;
-
-&lt;p&gt;Motion by JH to suspend the rules and allow the three pull requests to allow the three rule changes to be able to be considered as one unit, seconded by BA.&lt;/p&gt;
-
-&lt;p&gt;Motion approves unanimously&lt;/p&gt;
-
-&lt;p&gt;Rule change carries unanimously&lt;/p&gt;
-
-&lt;h3 id=&quot;item-3-presidium-assignments-for-the-semester&quot;&gt;Item 3. Presidium assignments for the semester&lt;/h3&gt;
-
-&lt;p&gt;MVJ presents the calendar for the schedule of meetings to the assembly&lt;/p&gt;
-
-&lt;p&gt;The assembly agrees to allow MVJ to schedule presiding officers for each meeting&lt;/p&gt;
-
-&lt;h3 id=&quot;item-4-formatting-of-pull-requests-and-commits&quot;&gt;Item 4. Formatting of pull requests and commits&lt;/h3&gt;
-
-&lt;p&gt;JR inquires about the formatting of pull requests and commits&lt;/p&gt;
-
-&lt;p&gt;BA proposes a template for a format to follow&lt;/p&gt;
-
-&lt;p&gt;MVJ moves to form a subcommittee on formatting of pull requests and commits, JH seconds&lt;/p&gt;
-
-&lt;p&gt;MVJ moves that the proposed subcommittee compose JR, BA, MS, and RW, with a deadline for them to propose a format by the next meeting, JR seconds&lt;/p&gt;
-
-&lt;p&gt;JH inquires if the members would agree to serve, the members agree&lt;/p&gt;
-
-&lt;p&gt;The motion on the composition carries, we return to the motion to form a subcommittee with said composition&lt;/p&gt;
-
-&lt;p&gt;The subcommittee forms unanimously.&lt;/p&gt;
-
-&lt;h3 id=&quot;item-5-new-business&quot;&gt;Item 5. New Business&lt;/h3&gt;
-
-&lt;p&gt;No new business introduced.&lt;/p&gt;
-
-&lt;p&gt;JH motions to adjourn, MVJ seconds, motion approved unanimously&lt;/p&gt;</content><author><name>Jonathan Hanon</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry></feed>
+&lt;h2 id=&quot;no-new-business&quot;&gt;no new business&lt;/h2&gt;</content><author><name>Zhiyuan Jin</name></author><summary type="html">Meeting Chair: Bilal AbdulRahman</summary></entry></feed>
