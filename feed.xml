@@ -1,4 +1,217 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-29T18:38:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-11-08</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-08" /><published>2023-11-08T00:00:00+00:00</published><updated>2023-11-08T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/08/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html">&lt;dl&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2023-11-29T18:38:21+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2023-11-15</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/15/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-15" /><published>2023-11-15T00:00:00+00:00</published><updated>2023-11-15T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/15/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/15/minutes.html">&lt;h1 id=&quot;minutes-of-the-programming-and-hacking-communities-meeting&quot;&gt;Minutes of the Programming and Hacking Communities Meeting&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;November 15, 2023, 12:10 EST&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meeting Chair:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mark Schramm (MS)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Meeting Secretary:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bilal AbdulRahman (BA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Present:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mikael Vejdemo-Johansson (MVJ)&lt;/li&gt;
+  &lt;li&gt;Jonathan Hanon (JH)&lt;/li&gt;
+  &lt;li&gt;Bilal AbdulRahman (BA) (arrived 19 minutes late)&lt;/li&gt;
+  &lt;li&gt;Edward Miller (EM)&lt;/li&gt;
+  &lt;li&gt;Sreehari Kalloormana (SK)&lt;/li&gt;
+  &lt;li&gt;Joshua Rollins (JR)&lt;/li&gt;
+  &lt;li&gt;Rose Wong (RW)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The meeting was called to order at 12:10 EST.&lt;/p&gt;
+
+&lt;h2 id=&quot;proposal-for-agenda&quot;&gt;Proposal for Agenda&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the Agenda&lt;/li&gt;
+  &lt;li&gt;Review Minutes&lt;/li&gt;
+  &lt;li&gt;Collection of Priority Bids&lt;/li&gt;
+  &lt;li&gt;Unfinished Business&lt;/li&gt;
+  &lt;li&gt;Reviewing Pull Requests&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1: Approving the Agenda&lt;/h2&gt;
+
+&lt;p&gt;The agenda was approved unanimously.&lt;/p&gt;
+
+&lt;h2 id=&quot;item-2-approving-the-minutes&quot;&gt;Item 2: Approving the Minutes&lt;/h2&gt;
+
+&lt;p&gt;Motion by JR to suspend the rules for the approval of all changes to minutes at once, seconded. Motion passes unanimously.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fix SK’s name in the minutes&lt;/li&gt;
+  &lt;li&gt;Change “abstraction” to “abstention”&lt;/li&gt;
+  &lt;li&gt;Switch Mark to his acronym&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MS calls for a vote; minutes approved as corrected unanimously.&lt;/p&gt;
+
+&lt;h2 id=&quot;item-3-collection-of-priority-bids&quot;&gt;Item 3: Collection of Priority Bids&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;JR proposes spending 3 points on PR 73, 74 each.&lt;/li&gt;
+  &lt;li&gt;ZJ proposes spending 7 points on PR 63, 64 each.&lt;/li&gt;
+  &lt;li&gt;BA proposes spending 20 points on PR 66.&lt;/li&gt;
+  &lt;li&gt;MVJ proposes spending 21 points on PR 70.&lt;/li&gt;
+  &lt;li&gt;JH proposes spending 21 points on PR 62, 65, 69.&lt;/li&gt;
+  &lt;li&gt;JH proposes spending 16 points on 69.&lt;/li&gt;
+  &lt;li&gt;JR proposes to revise his bid to 1 point each on all his previous pull request bids.&lt;/li&gt;
+  &lt;li&gt;BA proposes spending 25 points on PR 66.&lt;/li&gt;
+  &lt;li&gt;MVJ proposes spending 26 points on PR 70 and 11 on 69.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;JH returns to the meeting at 12:38 pm.&lt;/p&gt;
+
+&lt;p&gt;Order of pull requests:
+69 - 27,
+70 - 26,
+66 - 25,
+62 - 21,
+65 - 21,
+63 - 7,
+64 - 7,
+73 - 1,
+74 - 1&lt;/p&gt;
+
+&lt;h2 id=&quot;item-4-unfinished-business&quot;&gt;Item 4: Unfinished Business&lt;/h2&gt;
+
+&lt;h3 id=&quot;pull-request-69&quot;&gt;Pull Request 69&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Amendment proposed by EM and withdrawn.&lt;/li&gt;
+  &lt;li&gt;Point inversion proposed by MVJ and seconded by BA.&lt;/li&gt;
+  &lt;li&gt;Point inversion denied by majority.&lt;/li&gt;
+  &lt;li&gt;Call to question by BA, seconded by JR.&lt;/li&gt;
+  &lt;li&gt;Approved by majority.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Motion rejected by majority.
+Ayes: ZJ, JR, RW
+Nays: BA, SK, MVJ, EM
+Abstention: JH&lt;/p&gt;
+
+&lt;h3 id=&quot;pull-request-70&quot;&gt;Pull Request 70&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Amendment proposed by MVJ to change “is” to “are.”&lt;/li&gt;
+  &lt;li&gt;Amendment passes by majority.&lt;/li&gt;
+  &lt;li&gt;Amendment proposed by MVJ to remove 354 from the rule.&lt;/li&gt;
+  &lt;li&gt;Amendment passes unanimously.&lt;/li&gt;
+  &lt;li&gt;Amendment proposed by JR to add a line in the event of absence; the penalty will be multiplied at the time of nomic adjournment on that day.&lt;/li&gt;
+  &lt;li&gt;Amendment passes by majority.&lt;/li&gt;
+  &lt;li&gt;Amendment proposed by JH to make the rule an update to 354.&lt;/li&gt;
+  &lt;li&gt;Amendment passes unanimously.&lt;/li&gt;
+  &lt;li&gt;JH proposes an amendment to make the update make sense.&lt;/li&gt;
+  &lt;li&gt;Amendment passes unanimously.&lt;/li&gt;
+  &lt;li&gt;Amendment passes by majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, BA, JH, MVJ&lt;/li&gt;
+      &lt;li&gt;Nays: EM&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-66&quot;&gt;Pull Request 66&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Motion by MVJ to table pull request until spelling mistakes are fixed.&lt;/li&gt;
+  &lt;li&gt;Motion passes with the majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, JH, MVJ, EM&lt;/li&gt;
+      &lt;li&gt;Nays: BA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-62&quot;&gt;Pull Request 62&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Motion by JH to amend the language to add an amendment clause and add a 20-point penalty to manipulate pull request.&lt;/li&gt;
+  &lt;li&gt;Amendment passes by majority.&lt;/li&gt;
+  &lt;li&gt;Motion by JH to add a definition of manipulation of pull request numbers.&lt;/li&gt;
+  &lt;li&gt;Amendment passes by majority.&lt;/li&gt;
+  &lt;li&gt;Motion passes by majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, ZJ, EM&lt;/li&gt;
+      &lt;li&gt;Nays: BA, MVJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-65&quot;&gt;Pull Request 65&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Point inversion called by BA.&lt;/li&gt;
+  &lt;li&gt;Motion passed by majority.&lt;/li&gt;
+  &lt;li&gt;Motion by MVJ to make quorum to 9 students.&lt;/li&gt;
+  &lt;li&gt;Motion denied by the majority.&lt;/li&gt;
+  &lt;li&gt;Motion accepted by majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, ZJ, EM&lt;/li&gt;
+      &lt;li&gt;Nays: JH, MVJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-63&quot;&gt;Pull Request 63&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Motion to fix language by BA.&lt;/li&gt;
+  &lt;li&gt;Passes unanimously.&lt;/li&gt;
+  &lt;li&gt;Motion to fix language by SK.&lt;/li&gt;
+  &lt;li&gt;Passes unanimously.&lt;/li&gt;
+  &lt;li&gt;Motion to call to question.&lt;/li&gt;
+  &lt;li&gt;Passes unanimously.&lt;/li&gt;
+  &lt;li&gt;Main motion passes by the majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, ZJ, BA&lt;/li&gt;
+      &lt;li&gt;Nays: MVJ, JH, EM&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-64&quot;&gt;Pull Request 64&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pull request is tabled until the language is fixed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pull-request-73&quot;&gt;Pull Request 73&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;JH, MVJ, JH propose an amendment to count absent penalties separately from the rule.&lt;/li&gt;
+  &lt;li&gt;Amendment passes by the majority.&lt;/li&gt;
+  &lt;li&gt;Call to question by EM.&lt;/li&gt;
+  &lt;li&gt;Passes by the majority.&lt;/li&gt;
+  &lt;li&gt;Main motion passes by the majority.
+    &lt;ul&gt;
+      &lt;li&gt;Ayes: RW, SK, JR, BA, EM&lt;/li&gt;
+      &lt;li&gt;Nays: ZJ, MVJ, JH&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Motion to adjourn by BA, seconded. Meeting adjourned at 13:40 EST.&lt;/p&gt;
+
+&lt;h2 id=&quot;total-player-points-gainedlost-on-nov-1-23&quot;&gt;Total Player Points Gained/Lost on Nov-1-23&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;BA: -19-15+10 = -24&lt;/li&gt;
+  &lt;li&gt;MVJ:-11-26+10+93+10-10+5+5 = 76&lt;/li&gt;
+  &lt;li&gt;JH: -16-21-21-10+51-10-53+5+5 = -70&lt;/li&gt;
+  &lt;li&gt;EM: 10+5+52 = 67&lt;/li&gt;
+  &lt;li&gt;SK: 0&lt;/li&gt;
+  &lt;li&gt;JR: -1&lt;/li&gt;
+  &lt;li&gt;RW: +10&lt;/li&gt;
+  &lt;li&gt;ZJ: -7-7+10+46+5 = 47&lt;/li&gt;
+  &lt;li&gt;MS: 0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: This does not include point corrections to previous minutes, only those gained/lost on the above date.&lt;/p&gt;</content><author><name>Bilal AbdulRahman</name></author><summary type="html">Minutes of the Programming and Hacking Communities Meeting November 15, 2023, 12:10 EST</summary></entry><entry><title type="html">Minutes 2023-11-08</title><link href="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-11-08" /><published>2023-11-08T00:00:00+00:00</published><updated>2023-11-08T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/11/08/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/11/08/minutes.html">&lt;dl&gt;
   &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
   &lt;dd&gt;Zhiyuan Jin (ZJ)&lt;/dd&gt;
   &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
@@ -1219,57 +1432,4 @@ Amendment passes with majority vote Voting against: ZJ, JH&lt;/p&gt;
 &lt;p&gt;Rule change for 208 defeated by voting against JH, MS, ZJ, EM, JC&lt;/p&gt;
 
 &lt;p&gt;SK motions to adjourn, motion approved unanimously.
-Meeting adjourned at 1:57 pm&lt;/p&gt;</content><author><name>Edward Miller</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 9/13/2023, 11:45am</summary></entry><entry><title type="html">Minutes 2023-09-06</title><link href="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html" rel="alternate" type="text/html" title="Minutes 2023-09-06" /><published>2023-09-06T00:00:00+00:00</published><updated>2023-09-06T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2023/09/06/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2023/09/06/minutes.html">&lt;dl&gt;
-  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
-  &lt;dd&gt;Bilal AbdulRahman&lt;/dd&gt;
-  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
-  &lt;dd&gt;Jin, Zhiyuan&lt;/dd&gt;
-  &lt;dt&gt;Present:&lt;/dt&gt;
-  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Bilal Abdulrahman (BA), Mark Schramm (MS), Zhiyuan Jin (ZJ), Edward Miller (EM), Sreehari Kalloormana (SK), Joshua Rollins (JR), Rose Wong (RW)&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Meeting called to order at 1:00 pm&lt;/p&gt;
-
-&lt;p&gt;Proposal for the agenda:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Approval of the agenda&lt;/li&gt;
-  &lt;li&gt;Approval of the previous minutes&lt;/li&gt;
-  &lt;li&gt;Hearing subcommittee report&lt;/li&gt;
-  &lt;li&gt;Evaluate pull requests&lt;/li&gt;
-  &lt;li&gt;Unfinished business&lt;/li&gt;
-  &lt;li&gt;New business&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;item1-approval-of-the-agenda&quot;&gt;item1: Approval of the agenda:&lt;/h2&gt;
-&lt;p&gt;Vote: Passed unanimously&lt;/p&gt;
-
-&lt;h2 id=&quot;item2-approval-of-the-previous-minutes&quot;&gt;item2: Approval of the previous minutes:&lt;/h2&gt;
-&lt;p&gt;against: none
-abstain: rose
-Result: Passed by majority&lt;/p&gt;
-
-&lt;h2 id=&quot;item3-hearing-committee-report--pull-request-formatting-guidelines&quot;&gt;item3: Hearing committee report:  Pull request formatting guidelines&lt;/h2&gt;
-&lt;p&gt;propose for Postpone of pull request formatting until next week: 
-Result: passed by the majority
-Disagree:  Joshua, Mark&lt;/p&gt;
-
-&lt;h2 id=&quot;item4-evaluate-pull-requests&quot;&gt;item4: Evaluate pull requests:&lt;/h2&gt;
-&lt;p&gt;Item_a: Pull#3 (update 202) 
-Against: Joshua
-Result: passed majority&lt;/p&gt;
-
-&lt;p&gt;Item_b: Pull#4 (203-add 10 point gain in rule adoption)
-Against: (Joshua, Mark)
-Result:  passed by the majority&lt;/p&gt;
-
-&lt;p&gt;Item_c: Pull#5 (206- reduce pull request penalty)
-Against: (Rose, Ed, Jonathan, Bilal)
-Result: passed by the majority&lt;/p&gt;
-
-&lt;p&gt;Item_d: Pull#6 (update 201.md to remove the notion of turns)
-Against: (all of the voters)
-Result: Rejected&lt;/p&gt;
-
-&lt;h2 id=&quot;no-unfinished-business&quot;&gt;no unfinished business&lt;/h2&gt;
-&lt;h2 id=&quot;no-new-business&quot;&gt;no new business&lt;/h2&gt;</content><author><name>Zhiyuan Jin</name></author><summary type="html">Meeting Chair: Bilal AbdulRahman</summary></entry></feed>
+Meeting adjourned at 1:57 pm&lt;/p&gt;</content><author><name>Edward Miller</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 9/13/2023, 11:45am</summary></entry></feed>
