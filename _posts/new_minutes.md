@@ -58,7 +58,7 @@ MS calls for a vote; minutes approved as corrected unanimously.
 JH returns to the meeting at 12:38 pm.
 
 Order of pull requests:
-69 - 26,
+69 - 27,
 70 - 26,
 66 - 25,
 62 - 21,
@@ -79,7 +79,7 @@ Order of pull requests:
 - Approved by majority.
 
 Motion rejected by majority.
-Ayes: ZJ, JR, Rose
+Ayes: ZJ, JR, RW
 Nayes: BA, SH, MVJ, EM
 Abstention: JH
 
@@ -123,8 +123,8 @@ Abstention: JH
 - Motion by MVJ to make quorum to 9 students.
 - Motion denied by the majority.
 - Motion rejected by majority.
-  - Nayes: JH, MVJ
-  - Ayes: RW, SK, JR, ZJ, EM
+  - Ayes: JH, MVJ
+  - Nayes: RW, SK, JR, ZJ, EM
 
 ### Pull Request 63
 
@@ -155,14 +155,14 @@ Abstention: JH
 Motion to adjourn by BA, seconded. Meeting adjourned at 1:40 pm.
 
 ## Total Player Points Gained/Lost on Nov-1-23
-
-- BA: 
-- MVJ:
-- JH: 
-- EM: 
-- SK: 
-- JR: 
-- RW: 
-- ZJ: 
-- MS: 
+(points from 73 who proposed?)
+- BA: -25-15+10=-30
+- MVJ:-11-26+10+(points from 70)+10-10+5+5
+- JH: -16-21-21-10+(points from 62)-10-(points loss by inversion 65)+5+5
+- EM: 10+5=15
+- SK: 0
+- JR: -1
+- RW: +10
+- ZJ: -7-7+10+(poinys from 63)+5
+- MS: 0
 Note: This does not include point corrections to previous minutes, only those gained/lost on the above date.
