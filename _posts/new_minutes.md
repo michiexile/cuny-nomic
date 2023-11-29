@@ -1,5 +1,3 @@
-Apologies for that oversight. Here's the corrected version with acronyms replacing "everyone else":
-
 # Minutes of the Programming and Hacking Communities Meeting
 *November 15, 2023, 12:10 am*
 
