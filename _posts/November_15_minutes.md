@@ -153,14 +153,13 @@ Abstention: JH
 Motion to adjourn by BA, seconded. Meeting adjourned at 1:40 pm.
 
 ## Total Player Points Gained/Lost on Nov-1-23
-(points from 73 who proposed?)
 - BA: -25-15+10=-30
 - MVJ:-11-26+10+(points from 70)+10-10+5+5
 - JH: -16-21-21-10+(points from 62)-10-(points loss by inversion 65)+5+5
-- EM: 10+5=15
+- EM: 10+5+(points from 73)
 - SK: 0
 - JR: -1
 - RW: +10
-- ZJ: -7-7+10+(poinys from 63)+5
+- ZJ: -7-7+10+(points from 63)+5
 - MS: 0
 Note: This does not include point corrections to previous minutes, only those gained/lost on the above date.
