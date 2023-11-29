@@ -4,10 +4,10 @@ Apologies for that oversight. Here's the corrected version with acronyms replaci
 *November 1, 2023, 11:45 am*
 
 **Meeting Chair:**
-- Joshua Rollins (JR) substituting for Zhiyuan Jin (ZJ)
+- Mark Shramm (MS) 
 
 **Meeting Secretary:**
-- Edward Miller (EM)
+- Bilal AbdulRahman (BA)
 
 **Present:**
 - Mikael Vejdemo Johansson (MVJ)
