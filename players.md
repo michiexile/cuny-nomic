@@ -12,6 +12,7 @@ Here is the current state of play in our ongoing game of Nomic:
   <th>Group</th>
   <th>Points</th>
   <th>Penalties</th>
+  <th>Balance</th>
  </tr>
 </thead>
 <tbody>
@@ -22,6 +23,7 @@ Here is the current state of play in our ongoing game of Nomic:
   <td>{{ player.group }}</td>
   <td>{{ player.points }}</td>
   <td>{{ player.penalties }}</td>
+  <td>{{ player.points - player.penalties</td>
  </tr>
 {% endfor %}
 </tbody>
