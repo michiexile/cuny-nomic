@@ -21,7 +21,7 @@ Here is the current state of play in our ongoing game of Nomic:
   <td>{{ player.name }}</td>
   <td>{{ player.group }}</td>
   <td>{{ player.points }}</td>
-  <td>{{ player.pentalties }}</td>
+  <td>{{ player.penalties }}</td>
  </tr>
 {% endfor %}
 </tbody>
