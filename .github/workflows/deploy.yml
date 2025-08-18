@@ -3,7 +3,7 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - F23
+      - F25
 
 jobs:
   github-pages:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: F23
+          ref: F25
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1
