@@ -1,3 +1,27 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
   points: 0
+- name: Miriam Briskman
+  group: students
+  points: 0
+- name: Jesse Dimino
+  group: students
+  points: 0
+- name: Jonathan Hanon
+  group: students
+  points: 0
+- name: Cesar Herrera
+  group: students
+  points: 0
+- name: Isa Jafarov
+  group: students
+  points: 0
+- name: Olga Kliuchnik
+  group: students
+  points: 0
+- name: Cheng Ning
+  group: students
+  points: 0
+- name: Heather Roberts
+  group: students
+  points: 0
