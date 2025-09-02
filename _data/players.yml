@@ -3,10 +3,10 @@
   points: -10
 - name: Beam
   group: students
-  points: 0
+  points: -10
 - name: Jesse Dimino
   group: students
-  points: 0
+  points: -10
 - name: Jonathan Hanon
   group: students
   points: 84
@@ -18,7 +18,7 @@
   points: 0
 - name: Olga Kliuchnik
   group: students
-  points: 10
+  points: -10
 - name: Cheng Ning
   group: students
   points: 0
