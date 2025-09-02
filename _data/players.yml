@@ -15,7 +15,7 @@
   points: 0
 - name: Isa Jafarov
   group: students
-  points: 0
+  points: -10
 - name: Olga Kliuchnik
   group: students
   points: -10
