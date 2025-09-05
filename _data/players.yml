@@ -12,10 +12,10 @@
   points: 84
 - name: Cesar Herrera
   group: students
-  points: 0
+  points: -10
 - name: Isa Jafarov
   group: students
-  points: -10
+  points: 0
 - name: Olga Kliuchnik
   group: students
   points: -10
