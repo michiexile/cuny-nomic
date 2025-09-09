@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-09-09T20:05:34+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-02</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-02" /><published>2025-09-02T00:00:00+00:00</published><updated>2025-09-02T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/02/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-09-09T20:12:38+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-02</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-02" /><published>2025-09-02T00:00:00+00:00</published><updated>2025-09-02T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/02/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;09022025-200pm&quot;&gt;09/02/2025, 2:00pm&lt;/h2&gt;
 
@@ -157,7 +157,173 @@ Nay: HR, JH, OK, JD, OK, Beam&lt;/p&gt;
 &lt;p&gt;Point updates:
 CH loses 10 points (Total: -10)&lt;/p&gt;
 
-&lt;p&gt;JD adjourns the meeting at 4:02 pm&lt;/p&gt;</content><author><name>Cesar Herrera</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 09/02/2025, 2:00pm Meeting Chair: Jesse Dimino Meeting Secretary: Cesar Herrera Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Olga Kliuchnik (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Isa Jafarov (IJ) Absent: Cheng Ning (CN) Meeting called to order at 2:53pm Proposal for agenda: Review previous agenda Discuss Rule Changes Item 1. Reviewing Previous Agenda Agenda reveiwed Item 2a. Pull Request #390 Motion by pull request by Beam to Create Rule 390 MVJ proposes amendment to strikeout last sentence MVJ amends his amendent to not strikeout and instead replace the last sentence with: “This minimum is 3” Vote on amendment Aye: MVJ, JH, OK, Beam, CH Nay: HR, IJ The Amendment passes Vote on motion Aye: Beam, HR, OK, IJ Nay: MVJ, JH, CH, JD The motion fails Point updates: Beam loses 10 points (Total: -10) Item 2b. Pull Request #391 Motion by pull request by OK to Create Rule 391 MVJ proposes amendment to change the short name of the rule from “Clarity Bonus” to “Jabberwocky” Vote on amendment Aye: MVJ, JH, HR, JD Nay: IJ, OK, Beam, CH The Amendment fails CH proposes an amendment to crossout the second line item and the number 1 from the first MVJ proposes second degree amendment is to remove the word Bonus from “Clarity Bonus” Vote on second amendment Aye: Beam, OK, IJ, MVJ, JH, CH, JD Nay: HR Second degree amendment is passed Vote on amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously JH proposes amendment to change “new rule” to “newly enacted, amended, or transmuted” JH proposes second amendment from “newly enacted, amended, or transmuted” to “every new or changed rule” Vote on second amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The second amendment passes unanimously Vote on amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously Vote on motion Aye: JD, CH, OK Nay: MVJ, JH, HR, IJ, Beam The motion fails Point updates: OK loses 10 points (Total: 0) Item 2c. Pull Request #393 Motion by pull request by OK to Create Rule 393 MVJ proposes amended to strikeout line 4 (short name) Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously Aye: OK Nay: MVJ, JH, HR, JD, IJ, OK, Beam, CH The motion fails Point updates: OK loses 10 points (Total: -10) Item 2d. Pull Request #394 Motion by pull request by JD to Remove Rule 210 Aye: JD, IJ, Beam Nay: OK, MVJ, JH, HR, CH The motion fails Point updates: JD loses 10 points (Total: -10) Item 2e. Pull Request #395 Motion by pull request by HR to Create Rule 389 Vote to call to call to question passes Aye: HR Nay: MVJ, JH, OK, JD, IJ, OK, Beam, CH The motion fails Point updates: HR loses 10 points (Total: -10) Item 2f. Pull Request #396 Motion by pull request by CH to Create Rule 394 Vote to call to call to question passes Aye: CH, IJ, MVJ Nay: HR, JH, OK, JD, OK, Beam The motion fails Point updates: CH loses 10 points (Total: -10) JD adjourns the meeting at 4:02 pm</summary></entry><entry><title type="html">Minutes 2025-08-26</title><link href="https://michiexile.github.io/cuny-nomic/2025/08/26/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-08-26" /><published>2025-08-26T00:00:00+00:00</published><updated>2025-08-26T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/08/26/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/08/26/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+&lt;h1 id=&quot;jd-adjourns-the-meeting-at-402-pm&quot;&gt;JD adjourns the meeting at 4:02 pm&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;p&gt;title: Minutes 2025-09-02
+layout: post
+author: Cesar Herrera
+—&lt;/p&gt;
+
+&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting-1&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;09022025-200pm-1&quot;&gt;09/02/2025, 2:00pm&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Jesse Dimino&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Cesar Herrera&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Olga Kliuchnik (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Isa Jafarov (IJ)
+Absent: Cheng Ning (CN)&lt;/p&gt;
+
+&lt;p&gt;Meeting called to order at 2:53pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda-1&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Review previous agenda&lt;/li&gt;
+  &lt;li&gt;Discuss Rule Changes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-reviewing-previous-agenda-1&quot;&gt;Item 1. Reviewing Previous Agenda&lt;/h3&gt;
+
+&lt;p&gt;Agenda reveiwed&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2a-pull-request-390-1&quot;&gt;Item 2a. Pull Request #390&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by Beam to Create Rule 390&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes amendment to strikeout last sentence
+MVJ amends his amendent to not strikeout and instead replace the last sentence with: “This minimum is 3”&lt;/p&gt;
+
+&lt;p&gt;Vote on amendment
+Aye: MVJ, JH, OK, Beam, CH
+Nay: HR, IJ&lt;/p&gt;
+
+&lt;p&gt;The Amendment passes&lt;/p&gt;
+
+&lt;p&gt;Vote on motion
+Aye: Beam, HR, OK, IJ
+Nay: MVJ, JH, CH, JD&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+Beam loses 10 points (Total: -10)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2b-pull-request-391-1&quot;&gt;Item 2b. Pull Request #391&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by OK to Create Rule 391&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes amendment to change the short name of the rule from “Clarity Bonus” to “Jabberwocky”&lt;/p&gt;
+
+&lt;p&gt;Vote on amendment
+Aye: MVJ, JH, HR, JD
+Nay: IJ, OK, Beam, CH&lt;/p&gt;
+
+&lt;p&gt;The Amendment fails&lt;/p&gt;
+
+&lt;p&gt;CH proposes an amendment to crossout the second line item and the number 1 from the first&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes second degree amendment is to remove the word Bonus from “Clarity Bonus”&lt;/p&gt;
+
+&lt;p&gt;Vote on second amendment
+Aye: Beam, OK, IJ, MVJ, JH, CH, JD
+Nay: HR&lt;/p&gt;
+
+&lt;p&gt;Second degree amendment is passed&lt;/p&gt;
+
+&lt;p&gt;Vote on amendment
+Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH
+Nay:&lt;/p&gt;
+
+&lt;p&gt;The amendment passes unanimously&lt;/p&gt;
+
+&lt;p&gt;JH proposes amendment to change “new rule” to “newly enacted, amended, or transmuted”&lt;/p&gt;
+
+&lt;p&gt;JH proposes second amendment from “newly enacted, amended, or transmuted” to “every new or changed rule”&lt;/p&gt;
+
+&lt;p&gt;Vote on second amendment
+Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH
+Nay:&lt;/p&gt;
+
+&lt;p&gt;The second amendment passes unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on amendment
+Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH
+Nay:&lt;/p&gt;
+
+&lt;p&gt;The amendment passes unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on motion
+Aye: JD, CH, OK
+Nay: MVJ, JH, HR, IJ, Beam&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+OK loses 10 points (Total: 0)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2c-pull-request-393-1&quot;&gt;Item 2c. Pull Request #393&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by OK to Create Rule 393&lt;/p&gt;
+
+&lt;p&gt;MVJ proposes amended to strikeout line 4 (short name)&lt;/p&gt;
+
+&lt;p&gt;Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH
+Nay:&lt;/p&gt;
+
+&lt;p&gt;The amendment passes unanimously&lt;/p&gt;
+
+&lt;p&gt;Aye: OK
+Nay: MVJ, JH, HR, JD, IJ, OK, Beam, CH&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+OK loses 10 points (Total: -10)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2d-pull-request-394-1&quot;&gt;Item 2d. Pull Request #394&lt;/h3&gt;
+&lt;p&gt;Motion by pull request by JD to Remove Rule 210&lt;/p&gt;
+
+&lt;p&gt;Aye: JD, IJ, Beam
+Nay: OK, MVJ, JH, HR, CH&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+JD loses 10 points (Total: -10)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2e-pull-request-395-1&quot;&gt;Item 2e. Pull Request #395&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by HR to Create Rule 389
+Vote to call to call to question passes&lt;/p&gt;
+
+&lt;p&gt;Aye: HR
+Nay: MVJ, JH, OK, JD, IJ, OK, Beam, CH&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+HR loses 10 points (Total: -10)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2f-pull-request-396-1&quot;&gt;Item 2f. Pull Request #396&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by CH to Create Rule 394&lt;/p&gt;
+
+&lt;p&gt;Vote to call to call to question passes&lt;/p&gt;
+
+&lt;p&gt;Aye: CH, IJ, MVJ
+Nay: HR, JH, OK, JD, OK, Beam&lt;/p&gt;
+
+&lt;p&gt;The motion fails&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+CH loses 10 points (Total: -10)&lt;/p&gt;
+
+&lt;p&gt;JD adjourns the meeting at 4:02 pm&lt;/p&gt;</content><author><name>Cesar Herrera</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 09/02/2025, 2:00pm Meeting Chair: Jesse Dimino Meeting Secretary: Cesar Herrera Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Olga Kliuchnik (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Isa Jafarov (IJ) Absent: Cheng Ning (CN) Meeting called to order at 2:53pm Proposal for agenda: Review previous agenda Discuss Rule Changes Item 1. Reviewing Previous Agenda Agenda reveiwed Item 2a. Pull Request #390 Motion by pull request by Beam to Create Rule 390 MVJ proposes amendment to strikeout last sentence MVJ amends his amendent to not strikeout and instead replace the last sentence with: “This minimum is 3” Vote on amendment Aye: MVJ, JH, OK, Beam, CH Nay: HR, IJ The Amendment passes Vote on motion Aye: Beam, HR, OK, IJ Nay: MVJ, JH, CH, JD The motion fails Point updates: Beam loses 10 points (Total: -10) Item 2b. Pull Request #391 Motion by pull request by OK to Create Rule 391 MVJ proposes amendment to change the short name of the rule from “Clarity Bonus” to “Jabberwocky” Vote on amendment Aye: MVJ, JH, HR, JD Nay: IJ, OK, Beam, CH The Amendment fails CH proposes an amendment to crossout the second line item and the number 1 from the first MVJ proposes second degree amendment is to remove the word Bonus from “Clarity Bonus” Vote on second amendment Aye: Beam, OK, IJ, MVJ, JH, CH, JD Nay: HR Second degree amendment is passed Vote on amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously JH proposes amendment to change “new rule” to “newly enacted, amended, or transmuted” JH proposes second amendment from “newly enacted, amended, or transmuted” to “every new or changed rule” Vote on second amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The second amendment passes unanimously Vote on amendment Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously Vote on motion Aye: JD, CH, OK Nay: MVJ, JH, HR, IJ, Beam The motion fails Point updates: OK loses 10 points (Total: 0) Item 2c. Pull Request #393 Motion by pull request by OK to Create Rule 393 MVJ proposes amended to strikeout line 4 (short name) Aye: MVJ, JH, HR, JD, IJ, OK, Beam, CH Nay: The amendment passes unanimously Aye: OK Nay: MVJ, JH, HR, JD, IJ, OK, Beam, CH The motion fails Point updates: OK loses 10 points (Total: -10) Item 2d. Pull Request #394 Motion by pull request by JD to Remove Rule 210 Aye: JD, IJ, Beam Nay: OK, MVJ, JH, HR, CH The motion fails Point updates: JD loses 10 points (Total: -10) Item 2e. Pull Request #395 Motion by pull request by HR to Create Rule 389 Vote to call to call to question passes Aye: HR Nay: MVJ, JH, OK, JD, IJ, OK, Beam, CH The motion fails Point updates: HR loses 10 points (Total: -10) Item 2f. Pull Request #396 Motion by pull request by CH to Create Rule 394 Vote to call to call to question passes Aye: CH, IJ, MVJ Nay: HR, JH, OK, JD, OK, Beam The motion fails Point updates: CH loses 10 points (Total: -10) JD adjourns the meeting at 4:02 pm title: Minutes 2025-09-02 layout: post author: Cesar Herrera —</summary></entry><entry><title type="html">Minutes 2025-08-26</title><link href="https://michiexile.github.io/cuny-nomic/2025/08/26/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-08-26" /><published>2025-08-26T00:00:00+00:00</published><updated>2025-08-26T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/08/26/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/08/26/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;8262025-200pm&quot;&gt;8/26/2025, 2:00pm&lt;/h2&gt;
 
