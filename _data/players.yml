@@ -1,6 +1,6 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: -10
+  points: -20
 - name: Beam
   group: students
   points: -20
