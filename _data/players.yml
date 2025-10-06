@@ -6,22 +6,25 @@
   points: -20
 - name: Jesse Dimino
   group: students
-  points: 0
+  points: 10
 - name: Jonathan Hanon
   group: students
-  points: 94
+  points: 117
 - name: Cesar Herrera
   group: students
-  points: 57
+  points: 62
 - name: Isa Jafarov
   group: students
-  points: 0
+  points: -10
 - name: OlgaKey
   group: students
-  points: -10
+  points: 0
 - name: Cheng Ning
   group: students
   points: 10
 - name: Heather Roberts
+  group: students
+  points: 95
+- name: Dan Weiner
   group: students
   points: 0
