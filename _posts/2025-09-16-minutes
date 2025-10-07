@@ -1,0 +1,124 @@
+---
+title: Minutes 2025-09-16
+layout: post
+author: OlgaKey
+---
+
+# Minutes - Programming and Hacking Communities Meeting
+
+## 9/16/2025, 2:00pm
+
+Meeting Chair:
+: Beam
+
+Meeting Secretary:
+: OlgaKey
+
+Present: 
+: Jonathan Hanon (JH), Cesar Herrera (CH), Heather Roberts (HR), Jesse Dimino (JD), Isa Jafarov (IJ),  Dan Weiner (DW), Cheng Ning (CN), Beam, OlgaKey (OK), Mikael Vejdemo Johansson (MVJ) 
+
+Absent:
+: None
+
+
+Meeting called to order at 3:59pm
+
+### Proposal for agenda:
+
+1. Approving the agenda
+2. Approval of the minutes from the last meeting
+3. Propose and vote on rule changes
+     3a. 403 & 404 by Tavaresh Isa
+     3b. 405 by Tavaresh Mikael
+     3c. 406 by Tavaresh Heather
+     3d. 206 (Rule Amendment) by Tavaresh Dan
+4. New Business
+
+
+### Item 1. Approving the Agenda
+
+Agenda moved by JD, Second by OK
+
+Agenda carries unanimously
+
+### Item 2. Approval of the minutes from the last meeting
+
+Minutes were incomplete. Request to add the minutes. Will be discussed next meeting
+Mikael moved second by Heather
+
+Aye: JH, CH, HR, JD, IJ,  DW, CN, Beam, OK, MVJ
+Nay: None
+Passed unanimously
+
+### Item 3a. Pull Request #403 & 404 by Tavaresh Isa
+
+Before the floor: JD and MVJ asked IJ if JH is willing to would be willing to amend the proposal to fuse both conditions (403&404) into one rule. 
+IJ: proposes to skip 403 and discuss only 404
+404 becomes 403, and 403 is dropped before going to the floor
+
+Motion by pull requesr by IJ to create a new rulem 403: If a player needs more time to think about the matter beffore voting, he/she may request to postpone voting to the next plenary session.
+Second by: no need to be second because the discussion started
+
+Aye: JH, IJ
+Nay: CH, HR, JD, DW, CN, Beam, OK, MVJ
+
+The motion fails. 
+
+Point updates:
+IJ loses 10
+
+### Item 3b. Pull Request #404
+
+Motion by pull request by MVJ to create a new Rule 404: Any number stated with numerals in the body of mutable rules is to be doubled before interpreting the rule.
+Any number spelled out with letters remains unchanged.
+Seconded by JD
+
+JH: Motion to amend the rule proposal to change the phrasing of to be doubled to be multiplied by the number two
+Seconded by MVJ
+
+Olga: Motion to amend an amendment: change the number two to number five because five is much easier to multiply by
+Seconded by JH
+
+Votes for amendment to the amendment (multiply by 5):
+Aye: JH,  JD,  OK 
+Nay:  CH, HR, IJ,  DW, CN, Beam, MVJ
+amendment to amendment failed
+
+Votes for the amendment (multiply by 2):
+Aye: JH, CH, JD, IJ
+Nay: HR, DW, CN, Beam, OK, MVJ
+Amedmant failed
+
+Votes for the rule:
+Aye: JH,  JD, DW, MVJ
+Nay: CH, HR, IJ, CN, Beam, OK,
+Rule 404 failed
+
+MVJ loses 10
+
+### Item 3c. Pull Request #405
+
+Motion by pull request by HB to create a new Rule 405: If a vote passes with an amendment, the player who introduced the amendment retains half the points, rounded up to the nearest iteger, of the player who introduced the new rule.
+Seconded by OK
+
+JH: motion to amend: if a rule change passes with an amendment, each player who introduced an amendment to the rule change will receive, [a player] will receive points equal to half of the points awarded to the proposer of the rule change rounded up to the nearest integer. 
+Seconded by DW
+
+Votes for the amendment:
+Aye: JH, CH, HR, JD, DW, CN, Beam, MVJ
+Nay: IJ, OK,
+Amedmant to the rule passed
+
+Votes for the rule:
+Aye: JH,  HR,  IJ,  DW, CN, Beam, 
+Nay: CH, JD, OK, MVJ
+Rule passes
+
+Heather got 95 points
+JH got 23
+
+### Item 4. New Business
+
+No new business introduced.
+
+MVJ adjourns the meeting at 3:53pm
