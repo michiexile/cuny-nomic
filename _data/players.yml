@@ -1,6 +1,6 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: -10
+  points: 181
 - name: Beam
   group: students
   points: -20
@@ -9,7 +9,7 @@
   points: 10
 - name: Jonathan Hanon
   group: students
-  points: 126
+  points: 222
 - name: Cesar Herrera
   group: students
   points: 62
@@ -24,7 +24,7 @@
   points: 10
 - name: Heather Roberts
   group: students
-  points: 101
+  points: 111
 - name: Dan Weiner
   group: students
-  points: 0
+  points: -10
