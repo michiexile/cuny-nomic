@@ -1,4 +1,262 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-09T16:01:20+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-02</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-02" /><published>2025-09-02T00:00:00+00:00</published><updated>2025-09-02T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/02/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T17:24:43+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-09</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-09" /><published>2025-09-09T00:00:00+00:00</published><updated>2025-09-09T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/09/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;992025-200pm&quot;&gt;9/9/2025, 2:00pm&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Jonathan Hanon&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Beam&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Cheng Ning (CN), Jonathan Hanon (JH), OlgaKey (OK), Isa Jafarov (IJ), Beam, Dan Weiner (DW), Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 3:09pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approving the minutes&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Discussion of poll requests and rules&lt;/p&gt;
+
+    &lt;p&gt;a. 401&lt;br /&gt;
+ b. 402&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;Agenda moved by CH, seconded by JD&lt;/p&gt;
+
+&lt;p&gt;Agenda carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-minutes&quot;&gt;Item 2. Approving the minutes&lt;/h3&gt;
+
+&lt;p&gt;Minor corrections were applied to the minutes document&lt;/p&gt;
+
+&lt;p&gt;Thereafter, approval of the minutes moved by MVJ. No objections followed.&lt;/p&gt;
+
+&lt;p&gt;Approval of the minutes carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3a-pull-request-101&quot;&gt;Item 3a. Pull Request #101&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by Beam to create Rule 401:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Motion by JH to suspend the rules to allow DW, who hasn’t been added to the players’ list yet, to speak during discussions.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Motion approved unanimously.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Motion by JH to suspend the rules to allow players to speak more than once during discussion.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Motion approved unanimously.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CH proposes an amendment to change the text of the proposed rule 401 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a person abstains, they lose 2 points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;CH proposes an amendment to the amendment to change the text of the proposed rule 401 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a player abstains from a rule-change voting, they lose 2 points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The amendment to the amendment passes unanimously.&lt;/li&gt;
+  &lt;li&gt;The proposed rule 401 therefore becomes:
+    &lt;blockquote&gt;
+      &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a player abstains from a rule-change voting, they lose 2 points.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OK proposes an amendment to the amendment to change the text of the proposed rule 401 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a player abstains from a rule-change voting, they lose 20 points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: OK&lt;/li&gt;
+  &lt;li&gt;Nay: CN, MVJ, IJ, JD, JH, OK, CH, HR, DW&lt;/li&gt;
+  &lt;li&gt;The amendment to the amendment fails.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vote on the amendment to change the text of the proposed rule 401 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a player abstains from a rule-change voting, they lose 2 points.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Aye: MVJ, OK, CH, Beam, DW&lt;/li&gt;
+    &lt;li&gt;Nay: JD, HR, IJ, CN, JH&lt;/li&gt;
+    &lt;li&gt;The amendment fails.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Calling to question: all are in favor.&lt;/p&gt;
+
+&lt;p&gt;Vote on the motion to create Rule 401:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;During any voting, a player may vote for the matter, against the matter, or abstain from voting. If a player abstains from a rule-change voting, they lose 2 points.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Aye: CN&lt;/li&gt;
+    &lt;li&gt;Nay: MVJ, IJ, JD, JH, OK, CH, Beam, HR, DW&lt;/li&gt;
+    &lt;li&gt;The motion fails.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Point updates:
+Beam loses 10 points (Total: -20)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3b-pull-request-102&quot;&gt;Item 3b. Pull Request #102&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by CH to create Rule 402:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Supreme Leader” and Secretary will be recognized as “The Oracle” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;MVJ proposes an amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Tovarich Supreme Leader” and Secretary will be recognized as “Tovarich The Oracle” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;JD proposes an amendment to the amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Tovarich Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Tovarich The Oracle” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: MVJ, IJ, CH, Beam, DW, JD, JH, CN&lt;/li&gt;
+  &lt;li&gt;Nay: OK, HR&lt;/li&gt;
+  &lt;li&gt;The amendment to the amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the amendment to the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Tovarich Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Tovarich The Oracle” in meetings.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Beam proposes an amendment to the amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Tovarishch Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Tovarishch The Oracle” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: MVJ, IJ, CH, Beam, DW, JD, JH, CN&lt;/li&gt;
+  &lt;li&gt;Nay: OK, HR&lt;/li&gt;
+  &lt;li&gt;The amendment to the amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the amendment to the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Tovarishch Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Tovarishch The Oracle” in meetings.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OK proposes an amendment to the amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: OK, MVJ, IJ, CH, Beam, DW, JD, JH, CN&lt;/li&gt;
+  &lt;li&gt;Nay: HR&lt;/li&gt;
+  &lt;li&gt;The amendment to the amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the amendment to the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle” in meetings.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CH proposes an amendment to the amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vote on the amendment to the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: OK, MVJ, CH, Beam, DW, JD, JH, CN&lt;/li&gt;
+  &lt;li&gt;Nay: HR, IJ&lt;/li&gt;
+  &lt;li&gt;The amendment to the amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the amendment to the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vote on the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: MVJ, CH, IJ, Beam, DW, JD, JH&lt;/li&gt;
+  &lt;li&gt;Nay: OK, HR, CN&lt;/li&gt;
+  &lt;li&gt;The amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IJ proposes an amendment to change the text of the proposed rule 402 to:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings. The players will be recognized as “товарищи”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Calling to question (on the amendment): passes unanimously.&lt;/p&gt;
+
+&lt;p&gt;Vote on the amendment:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: CN, MVJ, OK, CH, IJ, Beam, DW, JD, JH&lt;/li&gt;
+  &lt;li&gt;Nay: HR&lt;/li&gt;
+  &lt;li&gt;The amendment passes.&lt;/li&gt;
+  &lt;li&gt;The updated text of the proposed rule 402 is:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings. The players will be recognized as “товарищи”.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Calling to question (on rule 402) - vote results:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: HR, CN, MVJ, OK, CH, IJ, Beam, DW, JH&lt;/li&gt;
+  &lt;li&gt;Nay: JD&lt;/li&gt;
+  &lt;li&gt;Motion to call to question passes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vote on rule 402:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aye: MVJ, IJ, OK, CH, Beam, DW&lt;/li&gt;
+  &lt;li&gt;Nay: JD, JH, HR, CN&lt;/li&gt;
+  &lt;li&gt;The motion carries with 6 out of 10 voting members present approving, making the approval worth 67 points.&lt;/li&gt;
+  &lt;li&gt;The text of the new rule 402 is hereby:
+    &lt;blockquote&gt;
+      &lt;p&gt;Acting chairperson will be recognized “Товарищ Supreme Leader Grand Khan of the Universe” and Secretary will be recognized as “Товарищ The Oracle Knower of All Speaker to the Stars” in meetings. The players will be recognized as “товарищи”.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Point updates:
+JD gains 10 points (Total: 0)
+JH gains 10 points (Total: 94)
+HR gains 10 points (Total: 0)
+CN gains 10 points (Total: 10)
+CH gains 67 points (Total: 57)&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-new-business&quot;&gt;Item 3. New Business&lt;/h3&gt;
+
+&lt;p&gt;No new business introduced.&lt;/p&gt;
+
+&lt;p&gt;JH adjourns the meeting at 3:58pm&lt;/p&gt;</content><author><name>Beam</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2025-09-02</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-02" /><published>2025-09-02T00:00:00+00:00</published><updated>2025-09-02T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/02/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/02/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;09022025-200pm&quot;&gt;09/02/2025, 2:00pm&lt;/h2&gt;
 
