@@ -1,4 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T17:28:17+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-16</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-16" /><published>2025-09-16T00:00:00+00:00</published><updated>2025-09-16T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/16/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T18:40:36+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-10-07</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-10-07" /><published>2025-10-07T00:00:00+00:00</published><updated>2025-10-07T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/07/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html">&lt;h1 id=&quot;minutes--programming-and-hacking-communities-meeting&quot;&gt;Minutes – Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 7, 2025&lt;br /&gt;
+&lt;strong&gt;Time:&lt;/strong&gt; 2:00 PM&lt;br /&gt;
+&lt;strong&gt;Meeting called to order:&lt;/strong&gt; 2:47 PM&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chair:&lt;/strong&gt; Heather Roberts&lt;br /&gt;
+&lt;strong&gt;Secretary:&lt;/strong&gt; Cheng Ning&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Present:&lt;/strong&gt; Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Cheng Ning (CN), Isa Jafarov (IJ), OlgaKey (OK), Heather Roberts (HR), Jesse Dimino (JD)&lt;br /&gt;
+&lt;strong&gt;Absent:&lt;/strong&gt; Beam, Dan Weiner (DW), Cesar Herrera (CH)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approval of Agenda&lt;/li&gt;
+  &lt;li&gt;Approval of Minutes (9/16)&lt;/li&gt;
+  &lt;li&gt;Postpone Minutes (9/9)&lt;/li&gt;
+  &lt;li&gt;Issue Trackers
+    &lt;ul&gt;
+      &lt;li&gt;a. Pull Request #106&lt;/li&gt;
+      &lt;li&gt;b. Pull Request #108&lt;/li&gt;
+      &lt;li&gt;c. Pull Request #109&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-1-approval-of-agenda&quot;&gt;Item 1. Approval of Agenda&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; To approve the agenda.&lt;br /&gt;
+&lt;strong&gt;Moved by:&lt;/strong&gt; MVJ&lt;br /&gt;
+&lt;strong&gt;Seconded by:&lt;/strong&gt; JH&lt;br /&gt;
+&lt;strong&gt;Vote:&lt;/strong&gt; Carried unanimously.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-2-approval-of-minutes-916&quot;&gt;Item 2. Approval of Minutes (9/16)&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; To postpone approval of the minutes from September 16.&lt;br /&gt;
+&lt;strong&gt;Moved by:&lt;/strong&gt; HR&lt;br /&gt;
+&lt;strong&gt;Vote:&lt;/strong&gt; Carried unanimously.&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Minutes from 9/16 postponed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3-postpone-minutes-99&quot;&gt;Item 3. Postpone Minutes (9/9)&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; To postpone approval of the minutes from September 9.&lt;br /&gt;
+&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – MVJ, JH, HR, JD, IJ, OK, CN&lt;br /&gt;
+Nay – None&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Carried unanimously.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-4a-pull-request-106&quot;&gt;Item 4a. Pull Request #106&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By DW to amend Rule 206.&lt;br /&gt;
+&lt;strong&gt;Seconded by:&lt;/strong&gt; Discussion was started without a second
+&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – None&lt;br /&gt;
+Nay – MVJ, JH, HR, JD, IJ, OK, CN&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Motion fails&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-4b-pull-request-108&quot;&gt;Item 4b. Pull Request #108&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By MVJ to amend Rule 108.&lt;br /&gt;
+&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – MVJ, JH, HR, JD, IJ, OK, CN&lt;br /&gt;
+Nay – None&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Motion carried unanimously.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-4c-pull-request-109&quot;&gt;Item 4c. Pull Request #109&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By MVJ to amend Rule 209 and rename it to Rule 409.&lt;br /&gt;
+&lt;strong&gt;Seconded by:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;h4 id=&quot;first-amendment&quot;&gt;First Amendment&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; JH&lt;br /&gt;
+&lt;strong&gt;Amendment:&lt;/strong&gt; to add You can’t resubmit in order to to get higher score 
+&lt;strong&gt;Action:&lt;/strong&gt; Withdrawn by motion by JH with unanimous consent. &lt;em&gt;(No vote taken.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;second-amendment&quot;&gt;Second Amendment&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; MVJ&lt;br /&gt;
+&lt;strong&gt;Amendment:&lt;/strong&gt; To add “rounded up to the nearest integer” to the last sentence.&lt;br /&gt;
+&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – MVJ, JH, HR, JD, IJ, OK, CN&lt;br /&gt;
+Nay – None&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Amendment carried.&lt;/p&gt;
+
+&lt;h4 id=&quot;third-amendment&quot;&gt;Third Amendment&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; JH&lt;br /&gt;
+&lt;strong&gt;Amendment:&lt;/strong&gt; To insert &lt;em&gt;“taking the square root, multiplying by 16,”&lt;/em&gt; &lt;strong&gt;after “reading off the bottom byte,”&lt;/strong&gt; in the same sentence.
+&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – MVJ, JH, HR, JD, OK&lt;br /&gt;
+Nay – IJ, CN&lt;br /&gt;
+&lt;strong&gt;Result:&lt;/strong&gt; Amendment carried.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Motion (as amended):&lt;/strong&gt;&lt;br /&gt;
+Rule 209 is amended and renamed &lt;strong&gt;Rule 409&lt;/strong&gt;, with the revised sentence reading as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A player scores points computed by taking the Git hash of the first commit in the pull request, reading off the bottom byte, &lt;strong&gt;taking the square root, multiplying by 16,&lt;/strong&gt; and multiplying the resulting number by the fraction of votes in favor of the rule change, &lt;strong&gt;rounded up to the nearest integer.&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;br /&gt;
+Aye – MVJ, JH, IJ, CN, JD, OK&lt;br /&gt;
+Nay – HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion carried.&lt;/p&gt;
+
+&lt;h4 id=&quot;points-update&quot;&gt;Points Update&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;MVJ gains &lt;strong&gt;∞ points&lt;/strong&gt; (Total: ∞)&lt;/li&gt;
+  &lt;li&gt;JH gains &lt;strong&gt;∞ points&lt;/strong&gt; (Total: ∞)&lt;/li&gt;
+  &lt;li&gt;HR gains &lt;strong&gt;10 points&lt;/strong&gt; (Total: 127)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-5-new-business&quot;&gt;Item 5. New Business&lt;/h3&gt;
+
+&lt;p&gt;No new business introduced.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Adjournment:&lt;/strong&gt;&lt;br /&gt;
+Meeting adjourned at 3:50 PM by Chair HR.&lt;/p&gt;</content><author><name>Cheng Ning</name></author><summary type="html">Minutes – Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2025-09-16</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-16" /><published>2025-09-16T00:00:00+00:00</published><updated>2025-09-16T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/16/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;9162025-200pm&quot;&gt;9/16/2025, 2:00pm&lt;/h2&gt;
 
