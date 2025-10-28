@@ -1,0 +1,6 @@
+---
+number: 428
+mutability: mutable
+---
+
+Whenever the word `integer` is used anywhere in these rules, this will refer to any realization of Peano's axioms.
