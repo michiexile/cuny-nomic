@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T17:24:43+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-09</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-09" /><published>2025-09-09T00:00:00+00:00</published><updated>2025-09-09T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/09/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T17:28:17+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-09-16</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-16" /><published>2025-09-16T00:00:00+00:00</published><updated>2025-09-16T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/16/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/16/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;9162025-200pm&quot;&gt;9/16/2025, 2:00pm&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair (Товарищ Supreme Leader Grand Khan of the Universe):&lt;/dt&gt;
+  &lt;dd&gt;Beam&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary (Товарищ The Oracle Knower of All Speaker to the Stars):&lt;/dt&gt;
+  &lt;dd&gt;OlgaKey&lt;/dd&gt;
+  &lt;dt&gt;Present (Товарищи):&lt;/dt&gt;
+  &lt;dd&gt;Jonathan Hanon (JH), Cesar Herrera (CH), Heather Roberts (HR), Jesse Dimino (JD), Isa Jafarov (IJ),  Dan Weiner (DW), Cheng Ning (CN), Beam, OlgaKey (OK), Mikael Vejdemo-Johansson (MVJ)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;None&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 2:59pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approval of the minutes from the last meeting&lt;/li&gt;
+  &lt;li&gt;Propose and vote on rule changes
+  3a. Pull Request 103 by Товарищ Isa
+  3b. Pull Request 104 by Товарищ Mikael
+  3c. Pull Request 105 by Товарищ Heather
+  3d. Pull Request 106 by Товарищ Dan&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;Agenda moved by JD, Seconded by OK&lt;/p&gt;
+
+&lt;p&gt;The agenda carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approval-of-the-minutes-from-the-last-meeting&quot;&gt;Item 2. Approval of the minutes from the last meeting&lt;/h3&gt;
+
+&lt;p&gt;Incidental motion: minutes were incomplete. Request to add the minutes. Will be discussed at the next meeting
+Mikael moved second by Heather&lt;/p&gt;
+
+&lt;p&gt;Aye: JH, CH, HR, JD, IJ,  DW, CN, Beam, OK, MVJ
+Nay: None
+Passed unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3a-pull-request-103-formatted-incorrectly-as-rule-403-and-404-by-tavaresh-isa&quot;&gt;Item 3a. Pull Request #103 (formatted incorrectly as Rule 403 and 404) by Tavaresh Isa&lt;/h3&gt;
+
+&lt;p&gt;Before the floor: JD and MVJ asked if IJ is willing to combine both conditions into one proposal amend the proposal to fuse both conditions into one rule. 
+IJ: proposes to skip the rule change labeled 403 and discuss only the one labeled 404&lt;/p&gt;
+
+&lt;p&gt;Motion by pull request by IJ to create a new rule 403: If a player needs more time to think about the matter before voting, he/she may request to postpone voting to the next plenary session.
+Second by: no need to be second because the discussion started&lt;/p&gt;
+
+&lt;p&gt;Aye: JH, IJ
+Nay: CH, HR, JD, DW, CN, Beam, OK, MVJ&lt;/p&gt;
+
+&lt;p&gt;The motion fails.&lt;/p&gt;
+
+&lt;p&gt;Point updates:
+IJ loses 10&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3b-pull-request-104&quot;&gt;Item 3b. Pull Request #104&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by MVJ to create a new Rule 404:
+Any number stated with numerals in the body of mutable rules is to be doubled before interpreting the rule.
+Any number spelled out with letters remains unchanged.
+Seconded by JD&lt;/p&gt;
+
+&lt;p&gt;JH: Motion to amend the rule proposal to change the phrasing of “to be doubled” to “to be multiplied by 2”
+Seconded by MVJ&lt;/p&gt;
+
+&lt;p&gt;Olga: Motion to amend an amendment: change “2” to “5”
+Seconded by JH&lt;/p&gt;
+
+&lt;p&gt;Votes for amendment to the amendment (multiply by 5):
+Aye: JH,  JD,  OK 
+Nay:  CH, HR, IJ,  DW, CN, Beam, MVJ
+Amendment to amendment failed&lt;/p&gt;
+
+&lt;p&gt;Votes for the amendment (multiplied by 2):
+Aye: JH, CH, JD, IJ
+Nay: HR, DW, CN, Beam, OK, MVJ
+Amedmant failed&lt;/p&gt;
+
+&lt;p&gt;Votes for the rule:
+Aye: JH,  JD, DW, MVJ
+Nay: CH, HR, IJ, CN, Beam, OK,
+Rule 404 failed&lt;/p&gt;
+
+&lt;p&gt;MVJ loses 10&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3c-pull-request-105&quot;&gt;Item 3c. Pull Request #105&lt;/h3&gt;
+
+&lt;p&gt;Motion by pull request by HB to create a new Rule 405:
+If a vote passes with an amendment, the player who introduced the amendment retains half the points, rounded up to the nearest integer, of the player who introduced the new rule.
+Seconded by OK&lt;/p&gt;
+
+&lt;p&gt;JH: motion to amend:
+If a rule change passes with an amendment, each player who introduced an adopted amendment to the rule change will be awarded points equal to half of the points awarded to the player who proposed the rule change, rounded up to the nearest integer.
+Seconded by DW&lt;/p&gt;
+
+&lt;p&gt;Votes for the amendment:
+Aye: JH, CH, HR, JD, DW, CN, Beam, MVJ
+Nay: IJ, OK,
+Amendment to the rule passed&lt;/p&gt;
+
+&lt;p&gt;Votes for the rule:
+Aye: JH,  HR,  IJ,  DW, CN, Beam, 
+Nay: CH, JD, OK, MVJ
+Rule passes&lt;/p&gt;
+
+&lt;p&gt;Heather got 69 points
+JH got 35&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4-new-business&quot;&gt;Item 4. New Business&lt;/h3&gt;
+
+&lt;p&gt;No new business introduced.&lt;/p&gt;
+
+&lt;p&gt;Beam adjourns the meeting at 3:53pm&lt;/p&gt;</content><author><name>OlgaKey</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes 2025-09-09</title><link href="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-09-09" /><published>2025-09-09T00:00:00+00:00</published><updated>2025-09-09T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/09/09/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/09/09/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;h2 id=&quot;992025-200pm&quot;&gt;9/9/2025, 2:00pm&lt;/h2&gt;
 
