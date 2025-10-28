@@ -1,18 +1,18 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: 0
+  points: 95
 - name: Beam
   group: students
-  points: 0
+  points: 108
 - name: Jesse Dimino
   group: students
-  points: 0
+  points: 118
 - name: Jonathan Hanon
   group: students
-  points: 0
+  points: 132
 - name: Cesar Herrera
   group: students
-  points: 0
+  points: 10
 - name: Isa Jafarov
   group: students
   points: 0
