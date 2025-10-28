@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T18:42:57+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-10-07</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-10-07" /><published>2025-10-07T00:00:00+00:00</published><updated>2025-10-07T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/07/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html">&lt;h1 id=&quot;minutes--programming-and-hacking-communities-meeting&quot;&gt;Minutes – Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-10-28T18:43:58+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes 2025-10-21</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/21/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-10-21" /><published>2025-10-21T00:00:00+00:00</published><updated>2025-10-21T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/21/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/21/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;h2 id=&quot;10212025-200pm&quot;&gt;10/21/2025, 2:00pm&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Meeting Chair:&lt;/dt&gt;
+  &lt;dd&gt;Cesar Herrera&lt;/dd&gt;
+  &lt;dt&gt;Meeting Secretary:&lt;/dt&gt;
+  &lt;dd&gt;Jonathan Hanon&lt;/dd&gt;
+  &lt;dt&gt;Present:&lt;/dt&gt;
+  &lt;dd&gt;Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Cheng Ning (CN), Isa Jafarov (IJ)&lt;/dd&gt;
+  &lt;dt&gt;Absent:&lt;/dt&gt;
+  &lt;dd&gt;OlgaKey (OK)&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Meeting called to order at 3:29pm&lt;/p&gt;
+
+&lt;h3 id=&quot;item-1-proposal-for-agenda&quot;&gt;Item 1. Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Call to order&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/9/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/16/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 10/7/2025&lt;/li&gt;
+  &lt;li&gt;Propose and vote on rule changes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;JH proposes to add “Discuss potential infinite loop in Rule 405”
+Seconded by MVJ
+Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;revised-proposal-for-agenda&quot;&gt;Revised proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the Agenda&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/9/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/16/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 10/7/2025&lt;/li&gt;
+  &lt;li&gt;Discuss potential infinite loop in Rule 405&lt;/li&gt;
+  &lt;li&gt;Propose and vote on rule changes (if applicable)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Motion by JD to make Pull Request 118 the first rule change proposal
+Seconded by HR
+Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;revised-proposal-for-agenda-1&quot;&gt;Revised proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the Agenda&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/9/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 9/16/2025&lt;/li&gt;
+  &lt;li&gt;Minutes from 10/7/2025&lt;/li&gt;
+  &lt;li&gt;Discuss potential infinite loop in Rule 405&lt;/li&gt;
+  &lt;li&gt;Propose and vote on Pull Request 118 (if applicable)&lt;/li&gt;
+  &lt;li&gt;Propose and vote on rule changes (if applicable)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Motion by MVJ to approve agenda
+Seconded by JD
+Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-minutes-from-992025&quot;&gt;Item 2. Minutes from 9/9/2025&lt;/h3&gt;
+
+&lt;p&gt;Motion by MVJ to approve
+Seconded by JD
+Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-minutes-from-9162025&quot;&gt;Item 3. Minutes from 9/16/2025&lt;/h3&gt;
+
+&lt;p&gt;MVJ notes that the rule change within the pull request not be considered under this point in the agenda&lt;/p&gt;
+
+&lt;p&gt;Motion by CH to approve
+Seconded by JD&lt;/p&gt;
+
+&lt;p&gt;Minor corrections were made&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-4-minutes-from-1072025&quot;&gt;Item 4. Minutes from 10/7/2025&lt;/h3&gt;
+
+&lt;p&gt;Minor corrections were made&lt;/p&gt;
+
+&lt;p&gt;Motion by MVJ to postpone until after discussion of the potential infinite loop Rule 405
+Seconded by JD&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;HR left the meeting at 3:48pm&lt;/p&gt;
+
+&lt;h3 id=&quot;item-5-discuss-potential-infinite-loop-in-rule-405&quot;&gt;Item 5. Discuss potential infinite loop in Rule 405&lt;/h3&gt;
+
+&lt;p&gt;Motion by JH to move into Committee of the Whole to discuss this item, with CH chairing the Committee of the Whole
+Seconded by MB&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;committee-of-the-whole&quot;&gt;Committee of the Whole&lt;/h3&gt;
+
+&lt;p&gt;The Committee discussed the issue at hand and agreed to report&lt;/p&gt;
+
+&lt;p&gt;Motion by JH to rise and report that the text “each player who introduced an adopted amendment to the rule change will be awarded points equal to half of the points awarded to the player who proposed the rule change” is an infinite loop if the player who proposed the rule change themselves introduced an adopted amendment to the rule change.
+Second by MVJ&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;The Committee of the Whole rose and reported, ending the Nomic game, with JH and MVJ having received infinite points from the vote on Rule 409 in the 10/7/2025 meeting&lt;/p&gt;
+
+&lt;h3 id=&quot;minutes-from-1072025&quot;&gt;Minutes from 10/7/2025&lt;/h3&gt;
+
+&lt;p&gt;MVJ proposed to correct the minutes to add the symbol ∞ as the scores for MVJ and JH from the vote on Rule 409, and note that MVJ and JH scored infinite points
+Seconded by JD&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;CH adjourned the meeting at 4:03pm&lt;/p&gt;</content><author><name>Jonathan Hanon</name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting 10/21/2025, 2:00pm Meeting Chair: Cesar Herrera Meeting Secretary: Jonathan Hanon Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Cheng Ning (CN), Isa Jafarov (IJ) Absent: OlgaKey (OK) Meeting called to order at 3:29pm Item 1. Proposal for agenda: Call to order Minutes from 9/9/2025 Minutes from 9/16/2025 Minutes from 10/7/2025 Propose and vote on rule changes JH proposes to add “Discuss potential infinite loop in Rule 405” Seconded by MVJ Carries unanimously Revised proposal for agenda: Approving the Agenda Minutes from 9/9/2025 Minutes from 9/16/2025 Minutes from 10/7/2025 Discuss potential infinite loop in Rule 405 Propose and vote on rule changes (if applicable) Motion by JD to make Pull Request 118 the first rule change proposal Seconded by HR Carries unanimously Revised proposal for agenda: Approving the Agenda Minutes from 9/9/2025 Minutes from 9/16/2025 Minutes from 10/7/2025 Discuss potential infinite loop in Rule 405 Propose and vote on Pull Request 118 (if applicable) Propose and vote on rule changes (if applicable) Motion by MVJ to approve agenda Seconded by JD Carries unanimously Item 2. Minutes from 9/9/2025 Motion by MVJ to approve Seconded by JD Carries unanimously Item 3. Minutes from 9/16/2025 MVJ notes that the rule change within the pull request not be considered under this point in the agenda Motion by CH to approve Seconded by JD Minor corrections were made Carries unanimously Item 4. Minutes from 10/7/2025 Minor corrections were made Motion by MVJ to postpone until after discussion of the potential infinite loop Rule 405 Seconded by JD Carries unanimously HR left the meeting at 3:48pm Item 5. Discuss potential infinite loop in Rule 405 Motion by JH to move into Committee of the Whole to discuss this item, with CH chairing the Committee of the Whole Seconded by MB Carries unanimously Committee of the Whole The Committee discussed the issue at hand and agreed to report Motion by JH to rise and report that the text “each player who introduced an adopted amendment to the rule change will be awarded points equal to half of the points awarded to the player who proposed the rule change” is an infinite loop if the player who proposed the rule change themselves introduced an adopted amendment to the rule change. Second by MVJ Carries unanimously The Committee of the Whole rose and reported, ending the Nomic game, with JH and MVJ having received infinite points from the vote on Rule 409 in the 10/7/2025 meeting Minutes from 10/7/2025 MVJ proposed to correct the minutes to add the symbol ∞ as the scores for MVJ and JH from the vote on Rule 409, and note that MVJ and JH scored infinite points Seconded by JD Carries unanimously CH adjourned the meeting at 4:03pm</summary></entry><entry><title type="html">Minutes 2025-10-07</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html" rel="alternate" type="text/html" title="Minutes 2025-10-07" /><published>2025-10-07T00:00:00+00:00</published><updated>2025-10-07T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/07/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/07/minutes.html">&lt;h1 id=&quot;minutes--programming-and-hacking-communities-meeting&quot;&gt;Minutes – Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 7, 2025&lt;br /&gt;
 &lt;strong&gt;Time:&lt;/strong&gt; 2:00 PM&lt;br /&gt;
