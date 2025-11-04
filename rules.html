@@ -8,7 +8,7 @@
       rel="stylesheet"
       type="text/css"
       media="screen"
-      href="/cuny-nomic/assets/css/style.css?v=f67614e649fce797d609914970f5224c01c562d8"
+      href="/cuny-nomic/assets/css/style.css?v=a75a3c3361c0d986011c57867a8145e4e994593b"
     />
 
     <link
@@ -307,15 +307,6 @@
             </p>
           </dd>
 
-          <dt class="rule_paragraph">202 (mutable)</dt>
-          <dd>
-            <p>
-              A player scores points computed by taking the GitHub pull request
-              number, adding 10 and multiplying the result by the fraction of
-              favorable votes it received, rounded to the nearest integer.
-            </p>
-          </dd>
-
           <dt class="rule_paragraph">203 (mutable)</dt>
           <dd>
             <p>
@@ -440,6 +431,17 @@
             <p>
               This rule takes precedence over every other rule determining the
               winner.
+            </p>
+          </dd>
+
+          <dt class="rule_paragraph">420 (mutable)</dt>
+          <dd>
+            <p>
+              A player scores points computed by taking the Git hash of the
+              first commit in the pull request, reading off the bottom byte,
+              taking the square root, multiplying by 16, and multiplying the
+              resulting number by the fraction of votes in favor of the rule
+              change, rounded up to the nearest integer.
             </p>
           </dd>
 
