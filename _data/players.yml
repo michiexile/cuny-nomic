@@ -3,19 +3,19 @@
   points: 325
 - name: Beam
   group: students
-  points: 118
+  points: 128
 - name: Jesse Dimino
   group: students
-  points: 118
+  points: 128
 - name: Jonathan Hanon
   group: students
-  points: 142
+  points: 279
 - name: Cesar Herrera
   group: students
   points: 30
 - name: Isa Jafarov
   group: students
-  points: 0
+  points: 10
 - name: OlgaKey
   group: students
   points: 10
@@ -27,4 +27,4 @@
   points: 0
 - name: Dan Weiner
   group: students
-  points: -10
+  points: 0
