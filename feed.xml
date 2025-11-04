@@ -1,4 +1,522 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-04T20:10:01+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-06T02:14:01+00:00</published><updated>2022-12-06T02:14:01+00:00</updated><id>https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-04T20:18:50+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-10-28T00:00:00+00:00</published><updated>2025-10-28T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/28/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;p&gt;Meeting Chair: Isa Jafarov&lt;/p&gt;
+
+&lt;p&gt;Meeting Secretary: Jesse Dimino&lt;/p&gt;
+
+&lt;p&gt;Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), OlgaKey (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Cheng Ning (CN), Isa Jafarov (IJ), Dan Weiner (DW)&lt;/p&gt;
+
+&lt;p&gt;Absent: None&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Meeting called to order at 3:03pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Handle Pull Requests in order&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;MVJ proposes to move Pull Request #126 to the first order of business after approval of Agenda then handle rest of Pull Requests in order&lt;/p&gt;
+
+&lt;p&gt;CH seconded&lt;/p&gt;
+
+&lt;p&gt;Proposal passes unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;updated-agenda&quot;&gt;Updated Agenda:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Vote on Pull Request #126&lt;/li&gt;
+  &lt;li&gt;Handle Pull Requests in order&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;MVJ moves to approve agenda&lt;/p&gt;
+
+&lt;p&gt;Seconded by discussion&lt;/p&gt;
+
+&lt;p&gt;Carried unanimously&lt;/p&gt;
+
+&lt;p&gt;Agenda approved for the meeting&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-2-pull-request-126&quot;&gt;Item 2. Pull Request #126&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By MVJ to amend Rule 208 and rename it to Rule 426&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 426&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;The winner is the first player to achieve 1000 (positive) points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by&lt;/strong&gt; JD&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-126-first-amendment&quot;&gt;Pull Request #126 First Amendment&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Change “positive” to “positive or negative”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; Beam&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request-126-amendment-to-first-amendment&quot;&gt;Pull Request #126 Amendment to First Amendment&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; Beam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Change scoring condition to either 1000 positive points or 100 negative points&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;p&gt;JH moves to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye – MVJ, JH, JD, IJ, OK, CN, Beam, DW&lt;/p&gt;
+
+&lt;p&gt;Nay – CH, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #126 Second Amendement&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye – JH, IJ, OK, CN, Beam, DW, CH&lt;/p&gt;
+
+&lt;p&gt;Nay – JD, CN, MVJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Amendment now reads&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The winner is the first player to achieve either 1000 positive points or 100 negative points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Beam moves to call the question for Pull Request #126 First Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye – JH, IJ, OK, CN, Beam, DW, CH, JD, CN&lt;/p&gt;
+
+&lt;p&gt;Nay – MVJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #126 First Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye – JH, IJ, OK, CN, Beam, DW, CH, JD&lt;/p&gt;
+
+&lt;p&gt;Nay – CN, MVJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Amendment adopted&lt;/p&gt;
+
+&lt;p&gt;JH moves to call the question on Pull Request #126 Main motion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye – JH, IJ, OK, CN, Beam, DW, CH, JD, CN, MVJ&lt;/p&gt;
+
+&lt;p&gt;Nay – None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #126&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - IJ, OK, CN, Beam, DW, JD, MVJ&lt;/p&gt;
+
+&lt;p&gt;Nay - CH, CN, JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;95 to MVJ (95 total)&lt;/p&gt;
+
+&lt;p&gt;10 to CH (10 total)&lt;/p&gt;
+
+&lt;p&gt;10 to CN (10 total)&lt;/p&gt;
+
+&lt;p&gt;10 to JH (10 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3a-pull-request-120&quot;&gt;Item 3a. Pull Request #120&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By MVJ to create Rule 420&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 420&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;A player scores points computed by taking the Git hash of the first commit in the pull request, reading off the bottom byte, taking the square root, multiplying by 16, and multiplying the resulting number by the fraction of votes in favor of the rule change, rounded up to the nearest integer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; Beam&lt;/p&gt;
+
+&lt;p&gt;JH proposes to postpone Pull Request #120 until after Pull Request #125&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; CH&lt;/p&gt;
+
+&lt;p&gt;IJ moves to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - IJ, OK, CH, Beam, DW, JD, MVJ, JH&lt;/p&gt;
+
+&lt;p&gt;Nay - CN, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Pull Request #120 moved until after Pull Request #125&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3b-pull-request-121&quot;&gt;Item 3b. Pull Request #121&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By JD to create Rule 421&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 421&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;If a rule change passes with an amendment, each adopted amendment to the rule change will award points to the player who introduced said amendment. The number of points that will be awarded, per adopted amendment, will be equal to half of the base points of the rule change, rounded up to the nearest integer.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;h3 id=&quot;pull-request-121-first-amendment&quot;&gt;Pull Request #121 First Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Remove “half of” from the scoring calculation&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; JD&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - IJ, OK, CH, Beam, JD, MVJ, JH, CN&lt;/p&gt;
+
+&lt;p&gt;Nay - DW, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; Motion now reads:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If a rule change passes with an amendment, each adopted amendment to the rule change will award points to the player who introduced said amendment. The number of points that will be awarded, per adopted amendment, will be equal to the base points of the rule change, rounded up to the nearest integer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;pull-request-121-second-amendment&quot;&gt;Pull Request #121 Second Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; JD&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Change “base points” to “base points calculated before being multiplied by the proportion of favorable votes”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; JH&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;MVJ raises a point of information&lt;/p&gt;
+
+&lt;p&gt;Answered by JD&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #121 Second Amendment:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - IJ, OK, CH, Beam, JD, MVJ, JH, CN, DW, HR&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question on Pull Request #121 Main Motion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, DW, MVJ&lt;/p&gt;
+
+&lt;p&gt;Nay -IJ, OK, CH, JD, JH, CN, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;h3 id=&quot;pull-request-121-third-amendment&quot;&gt;Pull Request #121 Third Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; JD&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Change number of points awarded for each successful amendment to be 1000 points&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; discussion&lt;/p&gt;
+
+&lt;h3 id=&quot;pull-request-121-amendment-to-third-amendment&quot;&gt;Pull Request #121 Amendment to Third Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; If an amendment is struck down, the proposer of that amendment will receive 10 points&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; Beam&lt;/p&gt;
+
+&lt;p&gt;MVJ moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #121 Amendment to Third Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, OK, JD, DW, CH&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ, HR, IJ, CN, JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question on Pull Request #121 Third Amendment&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #121 Third Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, OK, JD, DW, CH, MVJ, HR, IJ, JH&lt;/p&gt;
+
+&lt;p&gt;Nay - CN&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; proposal now reads&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If a rule change passes with an amendment, each adopted amendment to the rule change will award points to the player who introduced said amendment. The number of points that will be awarded, per adopted amendment, will be equal to 1000 points.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;pull-request-121-fourth-amendment&quot;&gt;Pull Request #121 Fourth Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; MVJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Add clause at the end stating “This rule will not be applied to the passing of this rule itself.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; Dan&lt;/p&gt;
+
+&lt;p&gt;IJ moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #121 Fourth Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Votes were not properly recorded, but were sufficient to pass, and did not affect scoring due to the fact that the motion is an amendment to a rule change and not a rule change in itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Action:&lt;/strong&gt; proposal now reads&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If a rule change passes with an amendment, each adopted amendment to the rule change will award points to the player who introduced said amendment. The number of points that will be awarded, per adopted amendment, will be equal to 1000 points. This rule will not be applied to the passing of this rule itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Beam moves to call the question on the main motion&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, OK, JD, DW, CN, MVJ, HR, IJ, JH&lt;/p&gt;
+
+&lt;p&gt;Nay - CH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;JD receives 118 points (118 total)&lt;/p&gt;
+
+&lt;p&gt;CH receives 10 points (20 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3c-pull-request-122&quot;&gt;Item 3c. Pull Request #122&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By JH to change mutability of Rule 112 and rename it to Rule 422&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; MVJ&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #122&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, OK, JD, DW, CN, MVJ, HR, IJ, JH, CH&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points Awarded&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;132 points awarded to JH (142 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3d-pull-request-123&quot;&gt;Item 3d. Pull Request #123&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By MVJ to create Rule 423&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 423&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;Before any proposed rule change can be voted on, it has to have been formally reviewed on GitHub by one other player, who must post their approval in the pull request as a comment.
+The reviewer will gain half of any point gains of the proposing player and lose half of any point loss of the proposing player for point gains and point losses that result from adoption or rejection of the proposed rule change. This rule will start to apply after the day in which it is adopted.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;JH proposed amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; Change “next day” to “session following the session of adopting”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; None&lt;/p&gt;
+
+&lt;p&gt;JD proposed amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; add clause specifying that the proposer of the rule change must choose their reviewer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; None&lt;/p&gt;
+
+&lt;p&gt;JH moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #123&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, OK, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - Beam, JD, CN, HR, IJ, CH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MVJ loses 10 points (85 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3e-pull-request-124&quot;&gt;Item 3e. Pull Request #124&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By JH to change mutability of Rule 109 and rename it to Rule 424&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; MVJ&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #124&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, OK, DW, CN, Beam&lt;/p&gt;
+
+&lt;p&gt;Nay - JD, IJ, HR, CH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails due to lack of unanimous consent&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;JH loses 10 points (132 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3f-pull-request-125&quot;&gt;Item 3f. Pull Request #125&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By Beam to create Rule 425&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 425
+mutability: mutable
+Every time a motion for rule creation or change passes, all the present players must say “Hip-hip - Hurray!” 3 time in unison before continuing to any other meeting matters&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; MVJ&lt;/p&gt;
+
+&lt;h3 id=&quot;pull-request-125-first-amendment&quot;&gt;Pull Request #125 First Amendment&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; By JD to delete “for rule creation or change”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second:&lt;/strong&gt; By discussion&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote of Pull Request #125 First Amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - JD, OK, Beam&lt;/p&gt;
+
+&lt;p&gt;Nay - IJ, CH, CN, MVJ, DW, JH, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;Beam moves to call the question on Pull Request #125&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #125&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - JD, Beam, OK, CH, CN, DW, HR, IJ&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ, JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;108 points to Beam (108 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to MVJ (95 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to JH (142 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MVJ moves to adjourn meeting&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Meeting adjourned at approximately 4:00pm&lt;/p&gt;</content><author><name></name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-06T02:14:01+00:00</published><updated>2022-12-06T02:14:01+00:00</updated><id>https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/jekyll/update/2022/12/06/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
