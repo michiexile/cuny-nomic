@@ -1,9 +1,9 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: 95
+  points: 335
 - name: Beam
   group: students
-  points: 108
+  points: 118
 - name: Jesse Dimino
   group: students
   points: 118
@@ -12,13 +12,13 @@
   points: 142
 - name: Cesar Herrera
   group: students
-  points: 20
+  points: 30
 - name: Isa Jafarov
   group: students
   points: 0
 - name: OlgaKey
   group: students
-  points: 0
+  points: 10
 - name: Cheng Ning
   group: students
   points: 10
@@ -27,4 +27,4 @@
   points: 0
 - name: Dan Weiner
   group: students
-  points: 0
+  points: -10
