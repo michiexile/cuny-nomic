@@ -1,9 +1,9 @@
 - name: Mikael Vejdemo-Johansson
   group: teachers
-  points: 315
+  points: 219
 - name: Beam
   group: students
-  points: 108
+  points: 118
 - name: Jesse Dimino
   group: students
   points: 128
