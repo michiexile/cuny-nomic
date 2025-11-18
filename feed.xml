@@ -1,4 +1,323 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-11T20:56:04+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-10-28T00:00:00+00:00</published><updated>2025-10-28T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/28/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-18T20:11:49+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-11-04T00:00:00+00:00</published><updated>2025-11-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/11/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;p&gt;Meeting Chair: Cheng Ning&lt;/p&gt;
+
+&lt;p&gt;Meeting Secretary: Isa Jafarov&lt;/p&gt;
+
+&lt;p&gt;Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), OlgaKey (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Jesse Dimino (JD), Cheng Ning (CN), Isa Jafarov (IJ), Dan Weiner (DW)&lt;/p&gt;
+
+&lt;p&gt;Absent: None&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Meeting called to order at 3:06 PM&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approving the minutes of the last meeting&lt;/li&gt;
+  &lt;li&gt;Handle Pull Requests in order&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; MVJ&lt;/p&gt;
+
+&lt;p&gt;Proposal passed unanimously&lt;/p&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;Voting is carried unanimously&lt;/p&gt;
+
+&lt;p&gt;Agenda approved for the meeting&lt;/p&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-minutes&quot;&gt;Item 2. Approving the Minutes&lt;/h3&gt;
+
+&lt;p&gt;JD proposed to add the missing adjournment time.&lt;/p&gt;
+
+&lt;p&gt;JH updated the minutes by adding the approximate adjournment time.&lt;/p&gt;
+
+&lt;p&gt;MVJ move to called the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; Beam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, OK, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; The minutes were approved&lt;/p&gt;
+
+&lt;h3 id=&quot;item-3-handle-pull-requests-in-order&quot;&gt;Item 3. Handle Pull Requests in order&lt;/h3&gt;
+
+&lt;h4 id=&quot;pull-request--120&quot;&gt;Pull request # 120&lt;/h4&gt;
+
+&lt;p&gt;Motion by MVJ:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A player scores points computed by taking the Git hash of the first commit in the pull request, reading off the bottom byte, taking the square root, multiplying by 16, and multiplying the resulting number by the fraction of votes in favor of the rule change, rounded up to the nearest integer.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded By:&lt;/strong&gt; OK, Beam, JH&lt;/p&gt;
+
+&lt;p&gt;Beam proposed an amendment to include a formula in the description&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;p&gt;JH moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK, JD, HR, Beam, CN, DW, JH, CH, IJ&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - None&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ, JH, OK, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Amendment failed&lt;/p&gt;
+
+&lt;p&gt;JH moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; CH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, OK, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on rule change proposal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, CN, DW, JD, IS, JH&lt;/p&gt;
+
+&lt;p&gt;Nay - OK, HR, CH, Beam&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion passed&lt;/p&gt;
+
+&lt;p&gt;CH calls point of order&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Do hip-hip-hurray
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Meeting did hip-hip-hurray&lt;/p&gt;
+
+&lt;p&gt;144 points to MVJ (239 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to OK (10 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to HR (10 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to CH (20 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to Beam (118 total)&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request--127&quot;&gt;Pull Request # 127&lt;/h4&gt;
+
+&lt;p&gt;Motion by DW:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+number: 427
+mutability: mutable
+---
+
+every player will gain 50 points for each meeting attended and lose 25 points for each meeting missed starting from the creation of this rule forward. As long as you are here before the game of nomic starts you can get the points.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;JH moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; JD&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, OK, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on rule change proposal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - HR, DW, IJ&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ, OK, Beam, CN, CH, JD, JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion failed&lt;/p&gt;
+
+&lt;p&gt;DW lost 10 points (-10 total)&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request--128&quot;&gt;Pull request # 128&lt;/h4&gt;
+
+&lt;p&gt;Motion by MVJ:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+number: 428
+mutability: mutable
+---
+
+Whenever the word `integer` is used anywhere in these rules, this will refer to any realization of Peano&apos;s axioms.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;OK moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; CH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - JH, OK, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on rule change proposal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK&lt;/p&gt;
+
+&lt;p&gt;Nay - JH, Beam, HR, CH, JD, CN, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;JH called for division&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK&lt;/p&gt;
+
+&lt;p&gt;Nay - Beam, HR, CN, DW, CH, JD, IJ, JH&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion failed&lt;/p&gt;
+
+&lt;p&gt;MVJ lost 10 points (229 total)&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request--129&quot;&gt;Pull request # 129&lt;/h4&gt;
+
+&lt;p&gt;Motion by JH:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+number: 429
+mutability: mutable
+---
+
+The state of affairs that constitutes winning may be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, JH, Beam, CN, OK, CH&lt;/p&gt;
+
+&lt;p&gt;Nay - IJ, JD, DW, HR&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion passed&lt;/p&gt;
+
+&lt;p&gt;Meeting did hip-hip-hurray&lt;/p&gt;
+
+&lt;p&gt;137 points to JH (279 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to IJ (10 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to JD (138 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to DW (0 total)&lt;/p&gt;
+
+&lt;p&gt;10 points to HR (20 total)&lt;/p&gt;
+
+&lt;h4 id=&quot;pull-request--130&quot;&gt;Pull request # 130&lt;/h4&gt;
+
+&lt;p&gt;Motion by DW:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+number: 430
+mutability: mutable
+---
+
+the winner has to get between 1000 and 10,000 points or between -100 and -200, any more or any less does not give the person a win.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;JH moved to call the question&lt;/p&gt;
+
+&lt;p&gt;Aye - JH, OK, DW, CN, CH&lt;/p&gt;
+
+&lt;p&gt;Nay - MVJ, Beam, JD, HR, IJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question failed&lt;/p&gt;
+
+&lt;p&gt;MVJ proposed amendment&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;change &quot;-200&quot; to &quot;-1000&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;JH moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK, Beam, DW, CN, CH, JD, JH, HR&lt;/p&gt;
+
+&lt;p&gt;Nay - IJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, HR, DW, CN&lt;/p&gt;
+
+&lt;p&gt;Nay - JH, OK, Beam, CH, JD, IJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Amendment failed&lt;/p&gt;
+
+&lt;p&gt;MVJ proposed an amendment&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;change number 10000 to 2000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; OK&lt;/p&gt;
+
+&lt;p&gt;OK moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, HR, DW, CN, JH, OK, Beam, CH, JD, IJ&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on amendment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye: MVJ, OK, JD, HR&lt;/p&gt;
+
+&lt;p&gt;Nay: Beam, CN, DW, CH, JH, IJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Amendment failed&lt;/p&gt;
+
+&lt;p&gt;DW moved to call the question&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK, JD, HR, Beam, CN, DW, JH, CH, IJ&lt;/p&gt;
+
+&lt;p&gt;Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion to call the question passed, vote on rule change&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK, HR, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - JD, Beam, CN, JH, CH, IJ&lt;/p&gt;
+
+&lt;p&gt;DW lost 10 points (-10 total)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Motion failed&lt;/p&gt;
+
+&lt;p&gt;DW moved to adjourn the meeting&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MVJ, OK, JD, HR, Beam, CN, DW, JH, CH, IJ
+Nay - None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; The meeting adjourned at 4:02 PM&lt;/p&gt;</content><author><name></name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-10-28T00:00:00+00:00</published><updated>2025-10-28T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/10/28/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/10/28/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;p&gt;Meeting Chair: Isa Jafarov&lt;/p&gt;
 
