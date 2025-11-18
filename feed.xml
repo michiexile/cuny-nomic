@@ -1,4 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-18T20:11:49+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-11-04T00:00:00+00:00</published><updated>2025-11-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/11/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://michiexile.github.io/cuny-nomic/feed.xml" rel="self" type="application/atom+xml" /><link href="https://michiexile.github.io/cuny-nomic/" rel="alternate" type="text/html" /><updated>2025-11-18T20:13:34+00:00</updated><id>https://michiexile.github.io/cuny-nomic/feed.xml</id><title type="html">CUNY-nomic</title><subtitle>The game Nomic played as part of the course on Programming and Hacking Communities.</subtitle><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/11/11/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-11-11T00:00:00+00:00</published><updated>2025-11-11T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/11/11/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/11/11/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
+
+&lt;p&gt;Meeting Chair: OlgaKey
+Meeting Secretary: Dan Weiner&lt;/p&gt;
+
+&lt;p&gt;Present: Mikael Vejdemo Johansson (MVJ), Jonathan Hanon (JH), OlgaKey (OK), Beam, Heather Roberts (HR), Cesar Herrera (CH), Cheng Ning (CN), Isa Jafarov (IJ), Dan Weiner (DW)&lt;/p&gt;
+
+&lt;p&gt;Absent: Jesse Dimino (JD)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Meeting called to order at 3:11 pm&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-for-agenda&quot;&gt;Proposal for agenda:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Approving the agenda&lt;/li&gt;
+  &lt;li&gt;Approve the minutes of 11/04&lt;/li&gt;
+  &lt;li&gt;Handle Pull Requests in order&lt;/li&gt;
+  &lt;li&gt;New Business&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;item-1-approving-the-agenda&quot;&gt;Item 1. Approving the Agenda&lt;/h3&gt;
+
+&lt;p&gt;MVJ moves to approve agenda&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; HR&lt;/p&gt;
+
+&lt;p&gt;Carried unanimously&lt;/p&gt;
+
+&lt;p&gt;Agenda approved for the meeting&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-2-approving-the-minutes-pull-request-140&quot;&gt;Item 2. Approving the Minutes (Pull Request #140)&lt;/h3&gt;
+
+&lt;p&gt;Recording started at 3:30 pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; By discussion to postpone the minutes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; MJV&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Passed unanimously, minutes postponed&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3-pull-request-131&quot;&gt;Item 3. Pull Request #131&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; by DW to create rule 431&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 431&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;all voting is done with yays and nays having opposite meanings, yays are now said as nays and nays are now said as yays.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; discussion&lt;/p&gt;
+
+&lt;p&gt;HR moves to call to question&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #131&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MJV, OK, HR, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - JH, Beam, CH, IJ, CN&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-10 to DW (-20 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-3-pull-request-133&quot;&gt;Item 3. Pull Request #133&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; by CH to create rule 433&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 433&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 100 points each.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;pull-request-133-first-amedment&quot;&gt;Pull Request #133 First Amedment&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Moved by:&lt;/strong&gt; IJ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amendment:&lt;/strong&gt; change entire rule to “the players who vote against winning proposals win 100 points each” for brevity&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; None&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; Amendment fails&lt;/p&gt;
+
+&lt;p&gt;OK moves to call the question&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #133&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - Beam, HR, CH, IJ, CN, DW&lt;/p&gt;
+
+&lt;p&gt;Nay - MJV, JH, OK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion passes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;142 to CH (172 total)&lt;/p&gt;
+
+&lt;p&gt;100 to MVJ (319 total)&lt;/p&gt;
+
+&lt;p&gt;100 to OK (110 total)&lt;/p&gt;
+
+&lt;p&gt;100 to JH (379 total)&lt;/p&gt;
+
+&lt;p&gt;meeting hip hip hoorays&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-4-pull-request-134&quot;&gt;Item 4. Pull Request #134&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; by CH to create rule 434&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 434&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;Each player vote weighs by the number of points the player has in the beginning of the round, divided by 10, and rounded to the closest integer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; discussion&lt;/p&gt;
+
+&lt;p&gt;OK moves to call to question&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #134&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - MJV, JK, OK, Beam&lt;/p&gt;
+
+&lt;p&gt;Nay - HR, CH, IJ, CN, DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-10 to CH (162 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-5-pull-request-135&quot;&gt;Item 5. Pull Request #135&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; by CH to create rule 435&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 435&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; MJV and Beam&lt;/p&gt;
+
+&lt;p&gt;MJV moves to call to question&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #135&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - OK, Beam, CH&lt;/p&gt;
+
+&lt;p&gt;Nay - MJV, JH, HR, IJ, CN, DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-10 to CH (152 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;item-6-pull-request-136&quot;&gt;Item 6. Pull Request #136&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Motion:&lt;/strong&gt; by JH to create rule 436&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;number: 436&lt;/p&gt;
+
+  &lt;p&gt;mutability: mutable&lt;/p&gt;
+
+  &lt;p&gt;Rule-changes that transmute immutable rules into mutable rules may be adopted if and only if the vote is unanimous among the eligible voters. Transmutation shall not be implied, but must be stated explicitly in a proposal to take effect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Seconded by:&lt;/strong&gt; MJV&lt;/p&gt;
+
+&lt;p&gt;MJV moves to call to question&lt;/p&gt;
+
+&lt;p&gt;Vote on Pull Request #136&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vote:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aye - HR, CH, CN&lt;/p&gt;
+
+&lt;p&gt;Nay - MJV, JH, OK, Beam, IJ, DW&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result:&lt;/strong&gt; motion fails&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Points&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-10 to JH (369 total)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;HR moves to adjourn meeting&lt;/p&gt;
+
+&lt;p&gt;Carries unanimously&lt;/p&gt;
+
+&lt;p&gt;Meeting adjourned at 3:56 pm&lt;/p&gt;</content><author><name></name></author><summary type="html">Minutes - Programming and Hacking Communities Meeting</summary></entry><entry><title type="html">Minutes</title><link href="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html" rel="alternate" type="text/html" title="Minutes" /><published>2025-11-04T00:00:00+00:00</published><updated>2025-11-04T00:00:00+00:00</updated><id>https://michiexile.github.io/cuny-nomic/2025/11/04/minutes</id><content type="html" xml:base="https://michiexile.github.io/cuny-nomic/2025/11/04/minutes.html">&lt;h1 id=&quot;minutes---programming-and-hacking-communities-meeting&quot;&gt;Minutes - Programming and Hacking Communities Meeting&lt;/h1&gt;
 
 &lt;p&gt;Meeting Chair: Cheng Ning&lt;/p&gt;
 
