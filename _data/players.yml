@@ -6,10 +6,10 @@
   points: 118
 - name: Jesse Dimino
   group: students
-  points: 128
+  points: 228
 - name: Jonathan Hanon
   group: students
-  points: 369
+  points: 459
 - name: Cesar Herrera
   group: students
   points: 152
@@ -18,7 +18,7 @@
   points: 10
 - name: OlgaKey
   group: students
-  points: 110
+  points: 120
 - name: Cheng Ning
   group: students
   points: 10
@@ -27,4 +27,4 @@
   points: 20
 - name: Dan Weiner
   group: students
-  points: -20
+  points: 80
