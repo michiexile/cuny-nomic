@@ -1,0 +1,148 @@
+Title: Minutes 2025-11-18
+Layout: Post
+Author: Heather Roberts
+
+# Minutes - Programming and Hacking Communities Meeting
+
+Meeting Chair: Dan Weiner
+Meeting Secretary: Heather Roberts
+
+Present: Jonathan Hanon (JH), OlgaKey (OK), Beam, Heather Roberts (HR), Isa Jafarov (IJ), Dan Weiner (DW), Jesse Dimino (JD)
+
+Absent: Mikael Vejdemo Johansson(MVJ), Cesar Herrera (CH), Cheng Ning (CN)
+
+---
+
+Meeting called to order at 2:58 pm
+
+---
+
+### Proposal for agenda:
+1. Approving the agenda
+2. Approve the minutes from  2025-11-04
+3. Approve the minutes from  2025-11-11
+4. Handle Pull Requests in order
+5. New Business
+
+--
+
+### Item 1. Approving the Agenda
+
+DW moves to approve agenda
+
+Carried unanimously
+
+Agenda approved for the meeting
+
+--
+
+### Item 2. Approving the Minutes from 2025-11-04
+
+No objections
+
+Minutes from 2025-11-04 approved.
+
+---
+
+### Item 2. Approving the Minutes from 2025-11-11
+
+JH corrected point assignment.
+
+No objections.
+
+Minutes from 2025-11-11 approved.
+
+---
+
+### Item 2. Pull Request #137
+
+**Motion:** by JH to create 437.md 
+
+Players may jointly endorse submitted rule changes as co-sponsors, and have the pull request be considered under all of their names.
+If a jointly endorsed pull request is adopted, all co-sponsors shall separately, with no communication between each other, decide whether to share or steal the points.
+If all co-sponsors choose to share the points, then they shall all receive the full base points for the proposal.
+If only one co-sponsor chooses to steal, then they shall receive twice the base points for the proposal.
+If two or more co-sponsors choose to steal, then all co-sponsors shall lose 10 points.
+
+JD moves to call the question.
+
+Vote on Pull Request #137
+
+Yays: (OK), (IJ)
+Nays: (JH), Beam, (HR), (DW), (JD)
+
+**Result:** 
+
+Pull request #137 fails.
+
+**Points**
+
+JH -10
+
+---
+
+### Item 3. Pull Request #138
+
+**Motion:** by OK to create rule 438
+
+number: 438
+
+Each session shall open with the Chair striking the desk three times and proclaiming, “The Realm of Order is now in session!” Any member who replies, “As chaos permits!” gains 50 points
+
+**Seconded by:** HR
+
+HR moves to call the question.
+
+Vote on Pull Request #138
+
+Yays: (OK), Beam, (HR), (IJ)
+Nays: (JH), (DW), (JD)
+
+**Result:** 
+
+Pull request #138 passes.
+
+Assembly hip hip horrays.
+
+**Points**
+OK +10
+DW +100
+JD +100
+JH +100
+
+---
+
+### Item 3. Pull Request #139
+
+**Motion:** by JH to create rule 439
+
+number: 439
+
+mutability: mutable
+
+A player scores points according to the value of the roll of dice upon the approval of a rule change.
+
+OK moves to call the question.
+
+Vote on Pull Request #439
+
+Yays: (JH), Beam, (IJ), (DW), (JD)
+Nays: (HR), (OK)
+
+**Result:** 
+
+Pull request #139 passes.
+
+Assembly hip hip hoorays.
+
+**Points**
+
+JH +661
+OK +100
+HR +100
+
+JH wins the game!
+
+--
+
+Meeting adjourned at 3:22PM
